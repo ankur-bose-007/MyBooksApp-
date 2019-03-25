@@ -1,0 +1,9 @@
+<mat-toolbar color="primary" *ngIf="router.url !='/login' && router.url !='/register'">
+        <span>Book App</span>
+        <button mat-button [routerLink]="['books/popular']">Popular</button>
+        <button mat-button [routerLink]="['books/favorites']">Favorites</button>
+        <button id="search" mat-button [routerLink]="['books/search']">Search</button>
+        <span class="spacer"></span>
+        <button mat-button (click)="logout()">Logout</button>
+</mat-toolbar>
+<router-outlet></router-outlet>

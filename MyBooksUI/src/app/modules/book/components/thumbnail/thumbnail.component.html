@@ -1,0 +1,15 @@
+<mat-card class="book-thumbnail">
+  <mat-card-header class="book-header">
+    <div mat-card-avatar class="example-header-image"></div>
+    <mat-card-title id="book-title">{{book?.title}}</mat-card-title>
+    <mat-card-subtitle>{{book?.isbn}}</mat-card-subtitle>
+  </mat-card-header>
+  <img class="book-image" mat-card-image src="http://covers.openlibrary.org/b/isbn/{{book?.isbn}}-L.jpg" [alt]="book.title">
+  <mat-card-content class="book-overview">
+    {{book?.author}}
+  </mat-card-content>
+  <mat-card-actions class="book-actions">
+    <button *ngIf="!useFavoritesApi" id="add-button" mat-button color="primary" (click)="addToFavorites()">Add to Favorites</button>
+    <button *ngIf="useFavoritesApi" mat-button color="warn" (click)="deleteFromFavorites()">Delete</button>
+  </mat-card-actions>
+</mat-card>

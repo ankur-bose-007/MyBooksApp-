@@ -1,0 +1,18 @@
+<div class="flex-container">
+  <form class="example-form">
+    <mat-form-field>
+            <mat-label>Search by category</mat-label>
+            <mat-select [(value)]="selected">
+              <mat-option>None</mat-option>
+              <mat-option value="title">Title</mat-option>
+              <mat-option value="author">Author</mat-option>
+              <mat-option value="any">Any</mat-option>
+            </mat-select>
+    </mat-form-field>&nbsp;
+    <mat-form-field>
+      <input id="search-button-input" matInput type="text" #box (keyup.enter)="onEnter(box.value)">
+      <mat-placeholder>Search</mat-placeholder>
+    </mat-form-field>
+  </form>
+</div>
+<book-container [books]="books"></book-container>

@@ -1,0 +1,4 @@
+<div class="book-container">
+  <book-thumbnail *ngFor="let book of books" [book]="book" [useFavoritesApi]="useFavoritesApi"
+  (addBook)="addBookToFavorites($event)" (deleteBook)="deleteFromFavorites($event)">{{book.title}}</book-thumbnail>  
+</div>

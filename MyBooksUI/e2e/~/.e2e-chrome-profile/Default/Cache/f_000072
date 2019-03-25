@@ -1,0 +1,7273 @@
+{
+ "start": 0,
+ "num_found": 11453,
+ "numFound": 11453,
+ "docs": [
+  {
+   "title_suggest": "Getting a Good Job",
+   "publisher": [
+    "Effective Learning Systems"
+   ],
+   "edition_key": [
+    "OL8605157M"
+   ],
+   "isbn": [
+    "1558483209",
+    "9781558483200"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "oclc": [
+    "34020315"
+   ],
+   "last_modified_i": 1355512109,
+   "title": "Getting a Good Job",
+   "author_name": [
+    "Super"
+   ],
+   "seed": [
+    "/books/OL8605157M",
+    "/works/OL8855508W",
+    "/authors/OL3039218A"
+   ],
+   "first_publish_year": 1995,
+   "publish_year": [
+    1995
+   ],
+   "key": "/works/OL8855508W",
+   "text": [
+    "OL8605157M",
+    "1558483209",
+    "9781558483200",
+    "Super",
+    "34020315",
+    "OL3039218A",
+    "How to Be Organized and Productive (Super Strength)",
+    "Getting a Good Job",
+    "/works/OL8855508W",
+    "Effective Learning Systems"
+   ],
+   "id_goodreads": [
+    "3115116"
+   ],
+   "publish_date": [
+    "August 1995"
+   ],
+   "author_key": [
+    "OL3039218A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Psychology Careers Today",
+   "publisher": [
+    "Vocational Guidance Manuals"
+   ],
+   "isbn": [
+    "0890222118",
+    "9780890222119"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL11270377M"
+   ],
+   "last_modified_i": 1260838924,
+   "title": "Psychology Careers Today",
+   "author_name": [
+    "Super And Super"
+   ],
+   "seed": [
+    "/books/OL11270377M",
+    "/works/OL9583433W",
+    "/authors/OL3583368A"
+   ],
+   "first_publish_year": 1976,
+   "publish_year": [
+    1976
+   ],
+   "key": "/works/OL9583433W",
+   "text": [
+    "OL11270377M",
+    "0890222118",
+    "9780890222119",
+    "Super And Super",
+    "Illustrated with Photographs (Illustrator)",
+    "OL3583368A",
+    "Psychology Careers Today",
+    "/works/OL9583433W",
+    "Vocational Guidance Manuals"
+   ],
+   "contributor": [
+    "Illustrated with Photographs (Illustrator)"
+   ],
+   "publish_date": [
+    "1976"
+   ],
+   "author_key": [
+    "OL3583368A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The Polish tradition",
+   "edition_key": [
+    "OL15134266M",
+    "OL6399572M",
+    "OL13835901M",
+    "OL19737603M",
+    "OL6483919M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL15134266M",
+    "OL6399572M",
+    "OL13835901M",
+    "OL19737603M",
+    "OL6483919M",
+    "Paul Super",
+    "Poland. Ministerstwo Informacji.",
+    "2152980",
+    "7075168",
+    "OL2337202A",
+    "an interpretation of a nation.",
+    "an interpretation of a nation",
+    "The Polish tradition",
+    "by Paul Super.",
+    "Polish National characteristics",
+    "Civilization",
+    "/works/OL7624812W",
+    "G. Allen & Unwin",
+    "Allen & Unwin",
+    "MaxLove publishing co., ltd.",
+    "Allen & Unwin for the Polish Ministry of Information",
+    "Produced for Polish Ministry of Information by Maxlove Pub. Co.",
+    "45007470",
+    "40006246",
+    "Poland"
+   ],
+   "author_name": [
+    "Paul Super"
+   ],
+   "seed": [
+    "/books/OL15134266M",
+    "/books/OL6399572M",
+    "/books/OL13835901M",
+    "/books/OL19737603M",
+    "/books/OL6483919M",
+    "/works/OL7624812W",
+    "/subjects/civilization",
+    "/subjects/polish_national_characteristics",
+    "/subjects/place:poland",
+    "/authors/OL2337202A"
+   ],
+   "oclc": [
+    "2152980",
+    "7075168"
+   ],
+   "contributor": [
+    "Poland. Ministerstwo Informacji."
+   ],
+   "author_key": [
+    "OL2337202A"
+   ],
+   "subject": [
+    "Polish National characteristics",
+    "Civilization"
+   ],
+   "title": "The Polish tradition",
+   "publish_date": [
+    "1939",
+    "1944",
+    "1900"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "London",
+    "[London"
+   ],
+   "edition_count": 5,
+   "key": "/works/OL7624812W",
+   "publisher": [
+    "G. Allen & Unwin",
+    "Allen & Unwin",
+    "MaxLove publishing co., ltd.",
+    "Allen & Unwin for the Polish Ministry of Information",
+    "Produced for Polish Ministry of Information by Maxlove Pub. Co."
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "45007470",
+    "40006246"
+   ],
+   "last_modified_i": 1353670049,
+   "publish_year": [
+    1939,
+    1900,
+    1944
+   ],
+   "first_publish_year": 1900,
+   "place": [
+    "Poland"
+   ]
+  },
+  {
+   "title_suggest": "You can say \"No\" to drugs!",
+   "edition_key": [
+    "OL23260606M",
+    "OL1871481M",
+    "OL24750891M"
+   ],
+   "cover_i": 6804635,
+   "isbn": [
+    "9780941477895",
+    "0941477894"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL23260606M",
+    "OL1871481M",
+    "OL24750891M",
+    "9780941477895",
+    "0941477894",
+    "Gretchen Super",
+    "Sims, Blanche, ill",
+    "Sims, Blanche.",
+    "Sims, Blanche, ill.",
+    "21299589",
+    "youcansaynotodru00supe",
+    "OL773911A",
+    "In library",
+    "Accessible book",
+    "Protected DAISY",
+    "Juvenile literature",
+    "Drug abuse",
+    "Prevention",
+    "You can say \"No\" to drugs!",
+    "/works/OL15841229W",
+    "Gretchen Super ; illustrated by Blanche Sims.",
+    "Gretchen Super ; illustrated by Blanche Sims",
+    "Twenty-First Century Books",
+    "90031034"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "contributor": [
+    "Sims, Blanche, ill",
+    "Sims, Blanche.",
+    "Sims, Blanche, ill."
+   ],
+   "seed": [
+    "/books/OL23260606M",
+    "/books/OL1871481M",
+    "/books/OL24750891M",
+    "/works/OL15841229W",
+    "/subjects/drug_abuse",
+    "/subjects/juvenile_literature",
+    "/subjects/prevention",
+    "/subjects/protected_daisy",
+    "/subjects/in_library",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "21299589"
+   ],
+   "ia": [
+    "youcansaynotodru00supe"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "In library",
+    "Accessible book",
+    "Protected DAISY",
+    "Juvenile literature",
+    "Drug abuse",
+    "Prevention"
+   ],
+   "title": "You can say \"No\" to drugs!",
+   "lending_identifier_s": "youcansaynotodru00supe",
+   "ia_collection_s": "printdisabled;internetarchivebooks;inlibrary;china;browserlending",
+   "printdisabled_s": "OL1871481M;OL24750891M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "Frederick, Md"
+   ],
+   "ia_box_id": [
+    "IA128317"
+   ],
+   "edition_count": 3,
+   "first_publish_year": 1990,
+   "key": "/works/OL15841229W",
+   "id_goodreads": [
+    "3606781"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "Twenty-First Century Books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "90031034"
+   ],
+   "last_modified_i": 1507496363,
+   "lending_edition_s": "OL1871481M",
+   "id_librarything": [
+    "2661203"
+   ],
+   "cover_edition_key": "OL24750891M",
+   "publish_year": [
+    1990
+   ],
+   "publish_date": [
+    "1990"
+   ]
+  },
+  {
+   "title_suggest": "Twenty-five years with the Poles",
+   "edition_key": [
+    "OL22788038M",
+    "OL14243686M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL22788038M",
+    "OL14243686M",
+    "Paul Super",
+    "OL2337202A",
+    "Social life and customs",
+    "Poland",
+    "History",
+    "Twenty-five years with the Poles",
+    "Poland",
+    "/works/OL7624810W",
+    "Paul Super Memorial Fund",
+    "Twenty-five years with the Poles.",
+    "51035231",
+    "1918-1945"
+   ],
+   "author_name": [
+    "Paul Super"
+   ],
+   "seed": [
+    "/books/OL22788038M",
+    "/books/OL14243686M",
+    "/works/OL7624810W",
+    "/subjects/history",
+    "/subjects/poland",
+    "/subjects/social_life_and_customs",
+    "/subjects/place:poland",
+    "/subjects/time:1918-1945",
+    "/authors/OL2337202A"
+   ],
+   "author_key": [
+    "OL2337202A"
+   ],
+   "subject": [
+    "Social life and customs",
+    "Poland",
+    "History"
+   ],
+   "title": "Twenty-five years with the Poles",
+   "first_publish_year": 1951,
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "[New York?]"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL7624810W",
+   "publisher": [
+    "Paul Super Memorial Fund"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "51035231"
+   ],
+   "last_modified_i": 1291622395,
+   "publish_year": [
+    1951
+   ],
+   "place": [
+    "Poland"
+   ],
+   "time": [
+    "1918-1945"
+   ],
+   "publish_date": [
+    "1951"
+   ]
+  },
+  {
+   "title_suggest": "Vietnam War soldiers",
+   "edition_key": [
+    "OL1402649M",
+    "OL9823351M"
+   ],
+   "isbn": [
+    "0516077376",
+    "0805023070",
+    "9780516077376",
+    "9780805023077"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL1402649M",
+    "OL9823351M",
+    "0516077376",
+    "0805023070",
+    "9780516077376",
+    "9780805023077",
+    "Neil Super",
+    "27974453",
+    "OL712337A",
+    "African-American Soldiers",
+    "Vietnam War soldiers",
+    "Neil Super.",
+    "Vietnamese Conflict, 1961-1975",
+    "Race relations",
+    "African Americans",
+    "Civil rights",
+    "Juvenile literature",
+    "African American soldiers",
+    "/works/OL3913296W",
+    "Children's Press (CT)",
+    "Twenty-First Century Books",
+    "Vietnam War Soldiers",
+    "93010626",
+    "United States"
+   ],
+   "author_name": [
+    "Neil Super"
+   ],
+   "seed": [
+    "/books/OL1402649M",
+    "/books/OL9823351M",
+    "/works/OL3913296W",
+    "/subjects/african_american_soldiers",
+    "/subjects/african_americans",
+    "/subjects/civil_rights",
+    "/subjects/juvenile_literature",
+    "/subjects/race_relations",
+    "/subjects/vietnamese_conflict_1961-1975",
+    "/subjects/place:united_states",
+    "/authors/OL712337A"
+   ],
+   "oclc": [
+    "27974453"
+   ],
+   "author_key": [
+    "OL712337A"
+   ],
+   "subject": [
+    "Vietnamese Conflict, 1961-1975",
+    "Race relations",
+    "African Americans",
+    "Civil rights",
+    "Juvenile literature",
+    "African American soldiers"
+   ],
+   "title": "Vietnam War soldiers",
+   "publish_date": [
+    "1993",
+    "September 1994"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL3913296W",
+   "id_goodreads": [
+    "3793557"
+   ],
+   "publisher": [
+    "Children's Press (CT)",
+    "Twenty-First Century Books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "93010626"
+   ],
+   "last_modified_i": 1304017751,
+   "publish_year": [
+    1993,
+    1994
+   ],
+   "first_publish_year": 1993,
+   "place": [
+    "United States"
+   ]
+  },
+  {
+   "title_suggest": "You can say \"No\" to drugs!",
+   "edition_key": [
+    "OL1871481M",
+    "OL23260606M"
+   ],
+   "isbn": [
+    "9780941477895",
+    "0941477894"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL1871481M",
+    "OL23260606M",
+    "9780941477895",
+    "0941477894",
+    "Gretchen Super",
+    "Sims, Blanche, ill.",
+    "Sims, Blanche.",
+    "21299589",
+    "youcansaynotodru00supe",
+    "OL773911A",
+    "You can say \"No\" to drugs!",
+    "In library",
+    "Accessible book",
+    "Protected DAISY",
+    "Juvenile literature",
+    "Drug abuse",
+    "Prevention",
+    "/works/OL4122904W",
+    "Gretchen Super ; illustrated by Blanche Sims.",
+    "Twenty-First Century Books",
+    "90031034"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "contributor": [
+    "Sims, Blanche, ill.",
+    "Sims, Blanche."
+   ],
+   "seed": [
+    "/books/OL1871481M",
+    "/books/OL23260606M",
+    "/works/OL4122904W",
+    "/subjects/drug_abuse",
+    "/subjects/juvenile_literature",
+    "/subjects/prevention",
+    "/subjects/in_library",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "21299589"
+   ],
+   "ia": [
+    "youcansaynotodru00supe"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "In library",
+    "Accessible book",
+    "Protected DAISY",
+    "Juvenile literature",
+    "Drug abuse",
+    "Prevention"
+   ],
+   "title": "You can say \"No\" to drugs!",
+   "lending_identifier_s": "youcansaynotodru00supe",
+   "ia_collection_s": "printdisabled;browserlending;china;inlibrary;internetarchivebooks",
+   "first_publish_year": 1990,
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "Frederick, Md"
+   ],
+   "printdisabled_s": "OL1871481M",
+   "ia_box_id": [
+    "IA128317"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL4122904W",
+   "id_goodreads": [
+    "3606781"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "Twenty-First Century Books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "90031034"
+   ],
+   "last_modified_i": 1327549627,
+   "lending_edition_s": "OL1871481M",
+   "id_librarything": [
+    "2661203"
+   ],
+   "cover_edition_key": "OL1871481M",
+   "publish_year": [
+    1990
+   ],
+   "publish_date": [
+    "1990"
+   ]
+  },
+  {
+   "title_suggest": "What are drugs?",
+   "edition_key": [
+    "OL23260608M",
+    "OL1871560M"
+   ],
+   "isbn": [
+    "0941477878",
+    "9780941477871"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL23260608M",
+    "OL1871560M",
+    "0941477878",
+    "9780941477871",
+    "Gretchen Super",
+    "Sims, Blanche.",
+    "Sims, Blanche, ill.",
+    "21230782",
+    "OL773911A",
+    "What are drugs?",
+    "Gretchen Super ; illustrated by Blanche Sims.",
+    "Drugs",
+    "Drug abuse",
+    "Juvenile literature",
+    "/works/OL4122901W",
+    "Twenty-First Century Books",
+    "90031120"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "seed": [
+    "/books/OL23260608M",
+    "/books/OL1871560M",
+    "/works/OL4122901W",
+    "/subjects/drug_abuse",
+    "/subjects/drugs",
+    "/subjects/juvenile_literature",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "21230782"
+   ],
+   "contributor": [
+    "Sims, Blanche.",
+    "Sims, Blanche, ill."
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "Drugs",
+    "Drug abuse",
+    "Juvenile literature"
+   ],
+   "title": "What are drugs?",
+   "publish_date": [
+    "1990"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Frederick, Md"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL4122901W",
+   "id_goodreads": [
+    "5279660"
+   ],
+   "publisher": [
+    "Twenty-First Century Books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "90031120"
+   ],
+   "last_modified_i": 1307507121,
+   "id_librarything": [
+    "645865"
+   ],
+   "publish_year": [
+    1990
+   ],
+   "first_publish_year": 1990
+  },
+  {
+   "title_suggest": "Drugs and our world",
+   "edition_key": [
+    "OL23260607M",
+    "OL1871559M"
+   ],
+   "isbn": [
+    "0941477886",
+    "9780941477888"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL23260607M",
+    "OL1871559M",
+    "0941477886",
+    "9780941477888",
+    "Gretchen Super",
+    "Sims, Blanche.",
+    "Sims, Blanche, ill.",
+    "21299661",
+    "OL773911A",
+    "Drugs and our world",
+    "Gretchen Super ; illustrated by Blanche Sims.",
+    "Drug abuse",
+    "Juvenile literature",
+    "/works/OL4122900W",
+    "Twenty-First Century Books",
+    "90031119",
+    "United States"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "seed": [
+    "/books/OL23260607M",
+    "/books/OL1871559M",
+    "/works/OL4122900W",
+    "/subjects/drug_abuse",
+    "/subjects/juvenile_literature",
+    "/subjects/place:united_states",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "21299661"
+   ],
+   "contributor": [
+    "Sims, Blanche.",
+    "Sims, Blanche, ill."
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "Drug abuse",
+    "Juvenile literature"
+   ],
+   "title": "Drugs and our world",
+   "publish_date": [
+    "1990"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Frederick, Md"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL4122900W",
+   "id_goodreads": [
+    "4540018"
+   ],
+   "publisher": [
+    "Twenty-First Century Books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "90031119"
+   ],
+   "last_modified_i": 1304029764,
+   "publish_year": [
+    1990
+   ],
+   "first_publish_year": 1990,
+   "place": [
+    "United States"
+   ]
+  },
+  {
+   "title_suggest": "Events and personalities in Polish history",
+   "edition_key": [
+    "OL6365549M",
+    "OL8409515M"
+   ],
+   "cover_i": 1756824,
+   "isbn": [
+    "9781406733082",
+    "1406733083"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL6365549M",
+    "OL8409515M",
+    "9781406733082",
+    "1406733083",
+    "Paul Super",
+    "Toru\u0144 (Poland). Instytut ba\u0142tycki.",
+    "3525686",
+    "OL2337202A",
+    "Events and personalities in Polish history",
+    "by Paul Super.",
+    "History",
+    "/works/OL7624809W",
+    "Hesperides Press",
+    "The Baltic Institute",
+    "Events And Personalities In Polish History",
+    "38003460",
+    "Poland"
+   ],
+   "author_name": [
+    "Paul Super"
+   ],
+   "seed": [
+    "/books/OL6365549M",
+    "/books/OL8409515M",
+    "/works/OL7624809W",
+    "/subjects/history",
+    "/subjects/place:poland",
+    "/authors/OL2337202A"
+   ],
+   "oclc": [
+    "3525686"
+   ],
+   "contributor": [
+    "Toru\u0144 (Poland). Instytut ba\u0142tycki."
+   ],
+   "author_key": [
+    "OL2337202A"
+   ],
+   "subject": [
+    "History"
+   ],
+   "title": "Events and personalities in Polish history",
+   "publish_date": [
+    "November 12, 2006",
+    "1936"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Toru\u0144"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL7624809W",
+   "publisher": [
+    "Hesperides Press",
+    "The Baltic Institute"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "38003460"
+   ],
+   "last_modified_i": 1291611663,
+   "cover_edition_key": "OL8409515M",
+   "publish_year": [
+    2006,
+    1936
+   ],
+   "first_publish_year": 1936,
+   "place": [
+    "Poland"
+   ]
+  },
+  {
+   "title_suggest": "Daniel \"Chappie\" James",
+   "edition_key": [
+    "OL1562094M",
+    "OL9893519M"
+   ],
+   "isbn": [
+    "9780805021387",
+    "9780516077321",
+    "0516077325",
+    "0805021388"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL1562094M",
+    "OL9893519M",
+    "9780805021387",
+    "9780516077321",
+    "0516077325",
+    "0805021388",
+    "Neil Super",
+    "123099197",
+    "25051026",
+    "OL712337A",
+    "Generals",
+    "African American generals",
+    "Juvenile literature",
+    "United States",
+    "United States. Air Force",
+    "African Americans",
+    "Biography",
+    "Internet Archive Wishlist",
+    "African-American Soldiers",
+    "Daniel \"Chappie\" James",
+    "/works/OL3913295W",
+    "Neil Super.",
+    "Children's Press (CT)",
+    "Twenty-First Century Books",
+    "91043503",
+    "Daniel James (1920-1978)",
+    "United States"
+   ],
+   "author_name": [
+    "Neil Super"
+   ],
+   "seed": [
+    "/books/OL1562094M",
+    "/books/OL9893519M",
+    "/works/OL3913295W",
+    "/subjects/generals",
+    "/subjects/african_american_generals",
+    "/subjects/african_americans",
+    "/subjects/united_states",
+    "/subjects/united_states._air_force",
+    "/subjects/juvenile_literature",
+    "/subjects/biography",
+    "/subjects/internet_archive_wishlist",
+    "/subjects/person:daniel_james_(1920-1978)",
+    "/subjects/place:united_states",
+    "/authors/OL712337A"
+   ],
+   "oclc": [
+    "123099197",
+    "25051026"
+   ],
+   "author_key": [
+    "OL712337A"
+   ],
+   "subject": [
+    "Generals",
+    "African American generals",
+    "Juvenile literature",
+    "United States",
+    "United States. Air Force",
+    "African Americans",
+    "Biography",
+    "Internet Archive Wishlist"
+   ],
+   "title": "Daniel \"Chappie\" James",
+   "publish_date": [
+    "September 1992",
+    "1992"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Frederick, Md"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL3913295W",
+   "publisher": [
+    "Children's Press (CT)",
+    "Twenty-First Century Books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "91043503"
+   ],
+   "last_modified_i": 1500010065,
+   "id_librarything": [
+    "8399114"
+   ],
+   "person": [
+    "Daniel James (1920-1978)"
+   ],
+   "publish_year": [
+    1992
+   ],
+   "first_publish_year": 1992,
+   "place": [
+    "United States"
+   ]
+  },
+  {
+   "title_suggest": "Sing-along favorites",
+   "edition_key": [
+    "OL24972079M",
+    "OL24950213M"
+   ],
+   "cover_i": 6880173,
+   "has_fulltext": true,
+   "text": [
+    "OL24972079M",
+    "OL24950213M",
+    "Terri Super",
+    "46673707",
+    "singalongfavorit00supe",
+    "OL1130022A",
+    "Texts",
+    "In library",
+    "Protected DAISY",
+    "Accessible book",
+    "Songs",
+    "Sing-along favorites",
+    "/works/OL16049878W",
+    "illustrated by Terri Super",
+    "Western Pub. Co."
+   ],
+   "author_name": [
+    "Terri Super"
+   ],
+   "seed": [
+    "/books/OL24972079M",
+    "/books/OL24950213M",
+    "/works/OL16049878W",
+    "/subjects/texts",
+    "/subjects/songs",
+    "/subjects/protected_daisy",
+    "/subjects/in_library",
+    "/authors/OL1130022A"
+   ],
+   "oclc": [
+    "46673707"
+   ],
+   "ia": [
+    "singalongfavorit00supe"
+   ],
+   "author_key": [
+    "OL1130022A"
+   ],
+   "subject": [
+    "Texts",
+    "In library",
+    "Protected DAISY",
+    "Accessible book",
+    "Songs"
+   ],
+   "title": "Sing-along favorites",
+   "lending_identifier_s": "singalongfavorit00supe",
+   "ia_collection_s": "printdisabled;internetarchivebooks;inlibrary;china;browserlending",
+   "printdisabled_s": "OL24972079M;OL24950213M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "Racine, Wis"
+   ],
+   "ia_box_id": [
+    "IA131610"
+   ],
+   "edition_count": 2,
+   "first_publish_year": 1986,
+   "key": "/works/OL16049878W",
+   "public_scan_b": false,
+   "publisher": [
+    "Western Pub. Co."
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1507494467,
+   "lending_edition_s": "OL24972079M",
+   "cover_edition_key": "OL24950213M",
+   "publish_year": [
+    1986
+   ],
+   "publish_date": [
+    "1986"
+   ]
+  },
+  {
+   "title_suggest": "What kind of family do you have?",
+   "edition_key": [
+    "OL1866290M",
+    "OL22859204M"
+   ],
+   "cover_i": 8296353,
+   "isbn": [
+    "0816724733",
+    "9780941477642",
+    "9780816724734",
+    "0941477649"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL1866290M",
+    "OL22859204M",
+    "0816724733",
+    "9780941477642",
+    "9780816724734",
+    "0941477649",
+    "Gretchen Super",
+    "Kiefte, Kees de, ill.",
+    "22860107",
+    "whatkindoffamily0000supe_m5i4",
+    "whatkindoffamily0000supe",
+    "OL773911A",
+    "Families",
+    "Family",
+    "Accessible book",
+    "Family life",
+    "Protected DAISY",
+    "Juvenile literature",
+    "Families life",
+    "What kind of family do you have?",
+    "/works/OL4122903W",
+    "Gretchen Super ; illustrated by Kees de Kiefte.",
+    "Twenty-First Century Books",
+    "Troll Associates",
+    "Cecilia Bard Multicultural Library for Peace",
+    "90024381"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "contributor": [
+    "Kiefte, Kees de, ill."
+   ],
+   "seed": [
+    "/books/OL1866290M",
+    "/books/OL22859204M",
+    "/works/OL4122903W",
+    "/subjects/family",
+    "/subjects/family_life",
+    "/subjects/juvenile_literature",
+    "/subjects/families",
+    "/subjects/families_life",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "22860107"
+   ],
+   "ia": [
+    "whatkindoffamily0000supe_m5i4",
+    "whatkindoffamily0000supe"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "Families",
+    "Family",
+    "Accessible book",
+    "Family life",
+    "Protected DAISY",
+    "Juvenile literature",
+    "Families life"
+   ],
+   "title": "What kind of family do you have?",
+   "lending_identifier_s": "whatkindoffamily0000supe",
+   "ia_collection_s": "printdisabled;internetarchivebooks;inlibrary;china",
+   "printdisabled_s": "OL1866290M;OL22859204M",
+   "type": "work",
+   "ebook_count_i": 2,
+   "publish_place": [
+    "Frederick, Md",
+    "[Mahwah, N.J.]"
+   ],
+   "ia_box_id": [
+    "IA1218211",
+    "IA1174310"
+   ],
+   "edition_count": 2,
+   "first_publish_year": 1991,
+   "key": "/works/OL4122903W",
+   "id_goodreads": [
+    "278236"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "Twenty-First Century Books",
+    "Troll Associates"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "90024381"
+   ],
+   "last_modified_i": 1545044275,
+   "lending_edition_s": "OL1866290M",
+   "id_librarything": [
+    "5770240"
+   ],
+   "cover_edition_key": "OL1866290M",
+   "publish_year": [
+    1991
+   ],
+   "publish_date": [
+    "1991"
+   ]
+  },
+  {
+   "title_suggest": "What Is a Family? (Your Family Album)",
+   "edition_key": [
+    "OL9782868M",
+    "OL11275853M"
+   ],
+   "isbn": [
+    "0805034412",
+    "9780805034417",
+    "0516073966",
+    "9780516073965"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL9782868M",
+    "OL11275853M",
+    "0805034412",
+    "9780805034417",
+    "0516073966",
+    "9780516073965",
+    "Gretchen Super",
+    "Kees De Kiefte (Illustrator)",
+    "231797443",
+    "whatisfamily0000supe",
+    "OL773911A",
+    "Accessible book",
+    "Protected DAISY",
+    "Internet Archive Wishlist",
+    "What Is a Family? (Your Family Album)",
+    "/works/OL4122902W",
+    "Childrens Pr",
+    "Harlan Davidson",
+    "What Is a Family (Your Family Album)"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "contributor": [
+    "Kees De Kiefte (Illustrator)"
+   ],
+   "seed": [
+    "/books/OL9782868M",
+    "/books/OL11275853M",
+    "/works/OL4122902W",
+    "/subjects/internet_archive_wishlist",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "231797443"
+   ],
+   "ia": [
+    "whatisfamily0000supe"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "Accessible book",
+    "Protected DAISY",
+    "Internet Archive Wishlist"
+   ],
+   "title": "What Is a Family? (Your Family Album)",
+   "lending_identifier_s": "whatisfamily0000supe",
+   "ia_collection_s": "printdisabled;inlibrary;internetarchivebooks",
+   "printdisabled_s": "OL9782868M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "ia_box_id": [
+    "IA1345624"
+   ],
+   "edition_count": 2,
+   "first_publish_year": 1991,
+   "key": "/works/OL4122902W",
+   "id_goodreads": [
+    "5159345"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "Childrens Pr",
+    "Harlan Davidson"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1547367234,
+   "lending_edition_s": "OL9782868M",
+   "publish_year": [
+    1991
+   ],
+   "publish_date": [
+    "October 1991",
+    "March 1991"
+   ]
+  },
+  {
+   "title_suggest": "Baseball Superstars",
+   "publisher": [
+    "Aladdin Paperbacks"
+   ],
+   "isbn": [
+    "0671954830",
+    "9780671954833"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL11077878M"
+   ],
+   "last_modified_i": 1260838721,
+   "title": "Baseball Superstars",
+   "author_name": [
+    "Super Actn"
+   ],
+   "seed": [
+    "/books/OL11077878M",
+    "/works/OL9536373W",
+    "/authors/OL3540617A"
+   ],
+   "first_publish_year": 1980,
+   "publish_year": [
+    1980
+   ],
+   "key": "/works/OL9536373W",
+   "text": [
+    "OL11077878M",
+    "0671954830",
+    "9780671954833",
+    "Super Actn",
+    "OL3540617A",
+    "Baseball Superstars",
+    "/works/OL9536373W",
+    "Aladdin Paperbacks"
+   ],
+   "publish_date": [
+    "April 1980"
+   ],
+   "author_key": [
+    "OL3540617A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Create Your Own Heirloom Book-6 Copy",
+   "publisher": [
+    "Grove/Atlantic"
+   ],
+   "isbn": [
+    "9780871136251",
+    "0871136252"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL11106950M"
+   ],
+   "last_modified_i": 1260838750,
+   "title": "Create Your Own Heirloom Book-6 Copy",
+   "author_name": [
+    "Scraps Super"
+   ],
+   "seed": [
+    "/books/OL11106950M",
+    "/works/OL9543733W",
+    "/authors/OL3547379A"
+   ],
+   "first_publish_year": 1995,
+   "publish_year": [
+    1995
+   ],
+   "key": "/works/OL9543733W",
+   "text": [
+    "OL11106950M",
+    "9780871136251",
+    "0871136252",
+    "Scraps Super",
+    "OL3547379A",
+    "Create Your Own Heirloom Book-6 Copy",
+    "/works/OL9543733W",
+    "Grove/Atlantic"
+   ],
+   "publish_date": [
+    "March 1995"
+   ],
+   "author_key": [
+    "OL3547379A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Handling Words 2",
+   "edition_key": [
+    "OL10095366M"
+   ],
+   "cover_i": 5033537,
+   "isbn": [
+    "013946641X",
+    "9780139466410"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL10095366M",
+    "013946641X",
+    "9780139466410",
+    "Rebecca Super",
+    "Cambridge Adult Education (Corporate Author)",
+    "OL3371073A",
+    "How to Read and Spell Those Long, Hard Words",
+    "Handling Words 2",
+    "/works/OL9323440W",
+    "Prentice Hall"
+   ],
+   "author_name": [
+    "Rebecca Super"
+   ],
+   "seed": [
+    "/books/OL10095366M",
+    "/works/OL9323440W",
+    "/authors/OL3371073A"
+   ],
+   "contributor": [
+    "Cambridge Adult Education (Corporate Author)"
+   ],
+   "author_key": [
+    "OL3371073A"
+   ],
+   "title": "Handling Words 2",
+   "publish_date": [
+    "August 1992"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL9323440W",
+   "id_goodreads": [
+    "1597086"
+   ],
+   "publisher": [
+    "Prentice Hall"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1272448931,
+   "cover_edition_key": "OL10095366M",
+   "publish_year": [
+    1992
+   ],
+   "first_publish_year": 1992
+  },
+  {
+   "title_suggest": "Handling Words 1",
+   "publisher": [
+    "Prentice Hall"
+   ],
+   "isbn": [
+    "0139466339",
+    "9780139466335"
+   ],
+   "has_fulltext": false,
+   "id_goodreads": [
+    "1597087"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL10095365M"
+   ],
+   "last_modified_i": 1272131678,
+   "title": "Handling Words 1",
+   "author_name": [
+    "Rebecca Super"
+   ],
+   "language": [
+    "eng"
+   ],
+   "seed": [
+    "/books/OL10095365M",
+    "/works/OL9323439W",
+    "/authors/OL3371073A"
+   ],
+   "first_publish_year": 1992,
+   "publish_year": [
+    1992
+   ],
+   "key": "/works/OL9323439W",
+   "text": [
+    "OL10095365M",
+    "0139466339",
+    "9780139466335",
+    "Rebecca Super",
+    "Cambridge Adult Education (Corporate Author)",
+    "OL3371073A",
+    "How to Read and Spell Those Long, Hard Words",
+    "Handling Words 1",
+    "/works/OL9323439W",
+    "Prentice Hall"
+   ],
+   "contributor": [
+    "Cambridge Adult Education (Corporate Author)"
+   ],
+   "publish_date": [
+    "February 1992"
+   ],
+   "author_key": [
+    "OL3371073A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Lundgren Supervision",
+   "publisher": [
+    "John Wiley & Sons Inc"
+   ],
+   "isbn": [
+    "9780471877042",
+    "0471877042"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL9753449M"
+   ],
+   "last_modified_i": 1292994439,
+   "title": "Lundgren Supervision",
+   "author_name": [
+    "LUNDGREN *SUPER"
+   ],
+   "seed": [
+    "/books/OL9753449M",
+    "/works/OL9265675W",
+    "/authors/OL3320022A"
+   ],
+   "first_publish_year": 1982,
+   "publish_year": [
+    1982
+   ],
+   "key": "/works/OL9265675W",
+   "text": [
+    "OL9753449M",
+    "9780471877042",
+    "0471877042",
+    "LUNDGREN *SUPER",
+    "OL3320022A",
+    "Lundgren Supervision",
+    "/works/OL9265675W",
+    "John Wiley & Sons Inc"
+   ],
+   "publish_date": [
+    "December 31, 1982"
+   ],
+   "author_key": [
+    "OL3320022A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Las Drogas Y Nuestro Mundo (Drugs and Our World)",
+   "publisher": [
+    "Childrens Pr"
+   ],
+   "isbn": [
+    "9780516373713",
+    "0516373714"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "spa"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL10432727M"
+   ],
+   "last_modified_i": 1260838112,
+   "title": "Las Drogas Y Nuestro Mundo (Drugs and Our World)",
+   "author_name": [
+    "G. Super"
+   ],
+   "seed": [
+    "/books/OL10432727M",
+    "/works/OL9395874W",
+    "/authors/OL3432596A"
+   ],
+   "first_publish_year": 1990,
+   "publish_year": [
+    1990
+   ],
+   "key": "/works/OL9395874W",
+   "text": [
+    "OL10432727M",
+    "9780516373713",
+    "0516373714",
+    "G. Super",
+    "OL3432596A",
+    "Las Drogas Y Nuestro Mundo (Drugs and Our World)",
+    "/works/OL9395874W",
+    "Childrens Pr"
+   ],
+   "publish_date": [
+    "January 1990"
+   ],
+   "author_key": [
+    "OL3432596A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Fish And A Frog",
+   "publisher": [
+    "Grosset & Dunlap"
+   ],
+   "edition_key": [
+    "OL10266031M"
+   ],
+   "isbn": [
+    "0448412268",
+    "9780448412269"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "oclc": [
+    "40861373"
+   ],
+   "last_modified_i": 1303890119,
+   "title": "Fish And A Frog",
+   "author_name": [
+    "Teri Super"
+   ],
+   "seed": [
+    "/books/OL10266031M",
+    "/works/OL9365710W",
+    "/authors/OL3406686A"
+   ],
+   "first_publish_year": 1984,
+   "publish_year": [
+    1984
+   ],
+   "key": "/works/OL9365710W",
+   "text": [
+    "OL10266031M",
+    "0448412268",
+    "9780448412269",
+    "Teri Super",
+    "40861373",
+    "OL3406686A",
+    "Fish And A Frog",
+    "/works/OL9365710W",
+    "Grosset & Dunlap"
+   ],
+   "publish_date": [
+    "August 3, 1984"
+   ],
+   "author_key": [
+    "OL3406686A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Que Son Las Drogas (What Are Drugs)",
+   "publisher": [
+    "Childrens Pr"
+   ],
+   "isbn": [
+    "0516373730",
+    "9780516373737"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "spa"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL10432729M"
+   ],
+   "last_modified_i": 1260838112,
+   "title": "Que Son Las Drogas (What Are Drugs)",
+   "author_name": [
+    "G. Super"
+   ],
+   "seed": [
+    "/books/OL10432729M",
+    "/works/OL9395875W",
+    "/authors/OL3432596A"
+   ],
+   "first_publish_year": 1991,
+   "publish_year": [
+    1991
+   ],
+   "key": "/works/OL9395875W",
+   "text": [
+    "OL10432729M",
+    "0516373730",
+    "9780516373737",
+    "G. Super",
+    "OL3432596A",
+    "Que Son Las Drogas (What Are Drugs)",
+    "/works/OL9395875W",
+    "Childrens Pr"
+   ],
+   "publish_date": [
+    "January 1991"
+   ],
+   "author_key": [
+    "OL3432596A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Your Family Album",
+   "publisher": [
+    "Childrens Pr"
+   ],
+   "isbn": [
+    "9780516073958",
+    "0516073958"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL10431632M"
+   ],
+   "last_modified_i": 1260838111,
+   "title": "Your Family Album",
+   "author_name": [
+    "G. Super"
+   ],
+   "seed": [
+    "/books/OL10431632M",
+    "/works/OL9395876W",
+    "/authors/OL3432596A"
+   ],
+   "first_publish_year": 1991,
+   "publish_year": [
+    1991
+   ],
+   "key": "/works/OL9395876W",
+   "text": [
+    "OL10431632M",
+    "9780516073958",
+    "0516073958",
+    "G. Super",
+    "OL3432596A",
+    "Your Family Album",
+    "/works/OL9395876W",
+    "Childrens Pr"
+   ],
+   "publish_date": [
+    "June 1991"
+   ],
+   "author_key": [
+    "OL3432596A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Whole Ocean Catalog",
+   "publisher": [
+    "HP Trade"
+   ],
+   "edition_key": [
+    "OL11310355M"
+   ],
+   "isbn": [
+    "9780895865991",
+    "0895865998"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "oclc": [
+    "15248670"
+   ],
+   "last_modified_i": 1304107705,
+   "title": "Whole Ocean Catalog",
+   "author_name": [
+    "Super Publications"
+   ],
+   "seed": [
+    "/books/OL11310355M",
+    "/works/OL9597184W",
+    "/authors/OL3596540A"
+   ],
+   "first_publish_year": 1987,
+   "publish_year": [
+    1987
+   ],
+   "key": "/works/OL9597184W",
+   "text": [
+    "OL11310355M",
+    "9780895865991",
+    "0895865998",
+    "Super Publications",
+    "15248670",
+    "OL3596540A",
+    "Whole Ocean Catalog",
+    "/works/OL9597184W",
+    "HP Trade"
+   ],
+   "publish_date": [
+    "January 1, 1987"
+   ],
+   "author_key": [
+    "OL3596540A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Daniel (Chappie) James (African-American Soldiers)",
+   "publisher": [
+    "21st Century"
+   ],
+   "isbn": [
+    "9780805021387",
+    "0805021388"
+   ],
+   "has_fulltext": false,
+   "id_librarything": [
+    "8399114"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL7931717M"
+   ],
+   "last_modified_i": 1281086564,
+   "title": "Daniel (Chappie) James (African-American Soldiers)",
+   "author_name": [
+    "Neil Super"
+   ],
+   "language": [
+    "eng"
+   ],
+   "seed": [
+    "/books/OL7931717M",
+    "/works/OL3913290W",
+    "/authors/OL712337A"
+   ],
+   "first_publish_year": 1997,
+   "publish_year": [
+    1997
+   ],
+   "key": "/works/OL3913290W",
+   "text": [
+    "OL7931717M",
+    "9780805021387",
+    "0805021388",
+    "Neil Super",
+    "OL712337A",
+    "Daniel (Chappie) James (African-American Soldiers)",
+    "/works/OL3913290W",
+    "21st Century"
+   ],
+   "publish_date": [
+    "December 9, 1997"
+   ],
+   "author_key": [
+    "OL712337A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "You Can Say No To Drugs (Drug-Free Kids Books)",
+   "edition_key": [
+    "OL9583189M"
+   ],
+   "cover_i": 1519563,
+   "isbn": [
+    "9780805026283",
+    "0805026282"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL9583189M",
+    "9780805026283",
+    "0805026282",
+    "Neil Super",
+    "231797431",
+    "OL712337A",
+    "You Can Say No To Drugs (Drug-Free Kids Books)",
+    "/works/OL3913294W",
+    "21st Century"
+   ],
+   "author_name": [
+    "Neil Super"
+   ],
+   "seed": [
+    "/books/OL9583189M",
+    "/works/OL3913294W",
+    "/authors/OL712337A"
+   ],
+   "oclc": [
+    "231797431"
+   ],
+   "author_key": [
+    "OL712337A"
+   ],
+   "title": "You Can Say No To Drugs (Drug-Free Kids Books)",
+   "publish_date": [
+    "December 9, 1997"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL3913294W",
+   "publisher": [
+    "21st Century"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1304174494,
+   "cover_edition_key": "OL9583189M",
+   "publish_year": [
+    1997
+   ],
+   "first_publish_year": 1997
+  },
+  {
+   "title_suggest": "Drug-Free Kids",
+   "publisher": [
+    "Twenty First Century Books"
+   ],
+   "isbn": [
+    "9780941477864",
+    "094147786X"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL11541634M"
+   ],
+   "last_modified_i": 1272133433,
+   "title": "Drug-Free Kids",
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "seed": [
+    "/books/OL11541634M",
+    "/works/OL4122889W",
+    "/authors/OL773911A"
+   ],
+   "first_publish_year": 1990,
+   "publish_year": [
+    1990
+   ],
+   "key": "/works/OL4122889W",
+   "text": [
+    "OL11541634M",
+    "9780941477864",
+    "094147786X",
+    "Gretchen Super",
+    "OL773911A",
+    "Drug-Free Kids",
+    "/works/OL4122889W",
+    "Twenty First Century Books"
+   ],
+   "id_goodreads": [
+    "3344073"
+   ],
+   "publish_date": [
+    "May 1990"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "What Are Drugs? (A Drug-Free Kids Book)",
+   "edition_key": [
+    "OL8071386M"
+   ],
+   "isbn": [
+    "9780816723645",
+    "0816723648"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8071386M",
+    "9780816723645",
+    "0816723648",
+    "Gretchen Super",
+    "Blanche Sims (Illustrator)",
+    "33364317",
+    "OL773911A",
+    "What Are Drugs? (A Drug-Free Kids Book)",
+    "/works/OL4122895W",
+    "Troll Communications"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "seed": [
+    "/books/OL8071386M",
+    "/works/OL4122895W",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "33364317"
+   ],
+   "contributor": [
+    "Blanche Sims (Illustrator)"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "title": "What Are Drugs? (A Drug-Free Kids Book)",
+   "publish_date": [
+    "February 1991"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL4122895W",
+   "id_goodreads": [
+    "3344065"
+   ],
+   "publisher": [
+    "Troll Communications"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1304157838,
+   "id_librarything": [
+    "645865"
+   ],
+   "publish_year": [
+    1991
+   ],
+   "first_publish_year": 1991
+  },
+  {
+   "title_suggest": "Tu Puedes Decirles No a Las Drogas (Libre de Drogas Series)",
+   "publisher": [
+    "Childrens Pr"
+   ],
+   "isbn": [
+    "0516373722",
+    "9780516373720"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "spa"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL10432728M"
+   ],
+   "last_modified_i": 1272132157,
+   "title": "Tu Puedes Decirles No a Las Drogas (Libre de Drogas Series)",
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "seed": [
+    "/books/OL10432728M",
+    "/works/OL4122894W",
+    "/authors/OL773911A"
+   ],
+   "first_publish_year": 1991,
+   "publish_year": [
+    1991
+   ],
+   "key": "/works/OL4122894W",
+   "text": [
+    "OL10432728M",
+    "0516373722",
+    "9780516373720",
+    "Gretchen Super",
+    "OL773911A",
+    "Tu Puedes Decirles No a Las Drogas (Libre de Drogas Series)",
+    "/works/OL4122894W",
+    "Childrens Pr"
+   ],
+   "id_goodreads": [
+    "3344069"
+   ],
+   "publish_date": [
+    "January 1991"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Your Family Album Series",
+   "publisher": [
+    "Harlan Davidson"
+   ],
+   "isbn": [
+    "0805034617",
+    "9780805034615"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL11275867M"
+   ],
+   "last_modified_i": 1272133094,
+   "title": "Your Family Album Series",
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "seed": [
+    "/books/OL11275867M",
+    "/works/OL4122899W",
+    "/authors/OL773911A"
+   ],
+   "first_publish_year": 1997,
+   "publish_year": [
+    1997
+   ],
+   "key": "/works/OL4122899W",
+   "text": [
+    "OL11275867M",
+    "0805034617",
+    "9780805034615",
+    "Gretchen Super",
+    "OL773911A",
+    "The Social Impact Serie",
+    "Your Family Album Series",
+    "/works/OL4122899W",
+    "Harlan Davidson"
+   ],
+   "id_goodreads": [
+    "3344071"
+   ],
+   "publish_date": [
+    "December 1997"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Drugs and Our World (A Drug-Free Kids Book)",
+   "edition_key": [
+    "OL8071387M"
+   ],
+   "isbn": [
+    "9780816723652",
+    "0816723656"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8071387M",
+    "9780816723652",
+    "0816723656",
+    "Gretchen Super",
+    "Blanche Sims (Illustrator)",
+    "OL773911A",
+    "Drugs and Our World (A Drug-Free Kids Book)",
+    "/works/OL4122890W",
+    "Troll Communications"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "seed": [
+    "/books/OL8071387M",
+    "/works/OL4122890W",
+    "/authors/OL773911A"
+   ],
+   "contributor": [
+    "Blanche Sims (Illustrator)"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "title": "Drugs and Our World (A Drug-Free Kids Book)",
+   "publish_date": [
+    "February 1991"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL4122890W",
+   "id_goodreads": [
+    "3344067"
+   ],
+   "publisher": [
+    "Troll Communications"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1281133707,
+   "id_librarything": [
+    "645428"
+   ],
+   "publish_year": [
+    1991
+   ],
+   "first_publish_year": 1991
+  },
+  {
+   "title_suggest": "What Are Drugs? (Drug-Free Kids Books)",
+   "edition_key": [
+    "OL9388498M"
+   ],
+   "isbn": [
+    "0805025499",
+    "9780805025491"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL9388498M",
+    "0805025499",
+    "9780805025491",
+    "Gretchen Super",
+    "Blanche Sims (Illustrator)",
+    "21230782",
+    "OL773911A",
+    "What Are Drugs? (Drug-Free Kids Books)",
+    "/works/OL4122896W",
+    "Harlan Davidson"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "seed": [
+    "/books/OL9388498M",
+    "/works/OL4122896W",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "21230782"
+   ],
+   "contributor": [
+    "Blanche Sims (Illustrator)"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "title": "What Are Drugs? (Drug-Free Kids Books)",
+   "publish_date": [
+    "May 1990"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL4122896W",
+   "id_goodreads": [
+    "5159344"
+   ],
+   "publisher": [
+    "Harlan Davidson"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1375626308,
+   "id_librarything": [
+    "645865"
+   ],
+   "publish_year": [
+    1990
+   ],
+   "first_publish_year": 1990
+  },
+  {
+   "title_suggest": "Palestrina, (G. Pierluigi)",
+   "edition_key": [
+    "OL4127330M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL4127330M",
+    "Antoine Super",
+    "OL1661522A",
+    "\u00e9tude historique et critique sur la musique r\u00e9ligieuse",
+    "Palestrina, (G. Pierluigi)",
+    "par A. Super ; pr\u00e9c\u00e9d\u00e9e d'une lettre adress\u00e9e \u00e0 l'auteur par Mgr Isoard.",
+    "Church music",
+    "/works/OL6348154W",
+    "V. Retaux",
+    "80100399",
+    "Giovanni Pierluigi da Palestrina (1525?-1594)"
+   ],
+   "author_name": [
+    "Antoine Super"
+   ],
+   "seed": [
+    "/books/OL4127330M",
+    "/works/OL6348154W",
+    "/subjects/church_music",
+    "/subjects/person:giovanni_pierluigi_da_palestrina_(1525?-1594)",
+    "/authors/OL1661522A"
+   ],
+   "author_key": [
+    "OL1661522A"
+   ],
+   "subject": [
+    "Church music"
+   ],
+   "title": "Palestrina, (G. Pierluigi)",
+   "publish_date": [
+    "1892"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Paris"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL6348154W",
+   "publisher": [
+    "V. Retaux"
+   ],
+   "language": [
+    "fre"
+   ],
+   "lccn": [
+    "80100399"
+   ],
+   "last_modified_i": 1291523584,
+   "person": [
+    "Giovanni Pierluigi da Palestrina (1525?-1594)"
+   ],
+   "publish_year": [
+    1892
+   ],
+   "first_publish_year": 1892
+  },
+  {
+   "title_suggest": "What Kind Of Family Do You",
+   "publisher": [
+    "21st Century"
+   ],
+   "isbn": [
+    "9780805477641",
+    "0805477640"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL11279972M"
+   ],
+   "last_modified_i": 1260838931,
+   "title": "What Kind Of Family Do You",
+   "author_name": [
+    "Neil Super"
+   ],
+   "seed": [
+    "/books/OL11279972M",
+    "/works/OL3913293W",
+    "/authors/OL712337A"
+   ],
+   "first_publish_year": 1997,
+   "publish_year": [
+    1997
+   ],
+   "key": "/works/OL3913293W",
+   "text": [
+    "OL11279972M",
+    "9780805477641",
+    "0805477640",
+    "Neil Super",
+    "OL712337A",
+    "What Kind Of Family Do You",
+    "/works/OL3913293W",
+    "21st Century"
+   ],
+   "publish_date": [
+    "December 9, 1997"
+   ],
+   "author_key": [
+    "OL712337A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Vietnam War Soldier (African-American Soldiers)",
+   "publisher": [
+    "21st Century"
+   ],
+   "edition_key": [
+    "OL7931732M"
+   ],
+   "isbn": [
+    "0805023070",
+    "9780805023077"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "oclc": [
+    "27974453"
+   ],
+   "last_modified_i": 1348609788,
+   "title": "Vietnam War Soldier (African-American Soldiers)",
+   "author_name": [
+    "Neil Super"
+   ],
+   "seed": [
+    "/books/OL7931732M",
+    "/works/OL3913292W",
+    "/authors/OL712337A"
+   ],
+   "first_publish_year": 1997,
+   "publish_year": [
+    1997
+   ],
+   "key": "/works/OL3913292W",
+   "text": [
+    "OL7931732M",
+    "0805023070",
+    "9780805023077",
+    "Neil Super",
+    "27974453",
+    "OL712337A",
+    "Vietnam War Soldier (African-American Soldiers)",
+    "/works/OL3913292W",
+    "21st Century"
+   ],
+   "id_goodreads": [
+    "3793557"
+   ],
+   "publish_date": [
+    "December 9, 1997"
+   ],
+   "author_key": [
+    "OL712337A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Optometriese insigte",
+   "edition_key": [
+    "OL2614426M"
+   ],
+   "isbn": [
+    "0869702424",
+    "9780869702420"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL2614426M",
+    "0869702424",
+    "9780869702420",
+    "Selwyn Super",
+    "24319900",
+    "OL1151502A",
+    "Optometriese insigte",
+    "Selwyn Super.",
+    "/works/OL5175136W",
+    "Randse Afrikaanse Universiteit",
+    "85178918"
+   ],
+   "author_name": [
+    "Selwyn Super"
+   ],
+   "seed": [
+    "/books/OL2614426M",
+    "/works/OL5175136W",
+    "/authors/OL1151502A"
+   ],
+   "oclc": [
+    "24319900"
+   ],
+   "author_key": [
+    "OL1151502A"
+   ],
+   "title": "Optometriese insigte",
+   "publish_date": [
+    "1984"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Johannesburg"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL5175136W",
+   "id_goodreads": [
+    "5490674"
+   ],
+   "publisher": [
+    "Randse Afrikaanse Universiteit"
+   ],
+   "language": [
+    "afr"
+   ],
+   "lccn": [
+    "85178918"
+   ],
+   "last_modified_i": 1304006714,
+   "publish_year": [
+    1984
+   ],
+   "first_publish_year": 1984
+  },
+  {
+   "title_suggest": "An improvement of the standard radioactive assay for methylene tetrahydrofolate reductase",
+   "edition_key": [
+    "OL16658240M"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "last_modified_i": 1260848215,
+   "title": "An improvement of the standard radioactive assay for methylene tetrahydrofolate reductase",
+   "author_name": [
+    "Michael Super"
+   ],
+   "seed": [
+    "/books/OL16658240M",
+    "/works/OL11877434W",
+    "/authors/OL5086519A"
+   ],
+   "key": "/works/OL11877434W",
+   "text": [
+    "OL16658240M",
+    "Michael Super",
+    "Manchester Polytechnic. Department of Biological Sciences.",
+    "OL5086519A",
+    "An improvement of the standard radioactive assay for methylene tetrahydrofolate reductase",
+    "/works/OL11877434W",
+    "An improvement of the standard radioactive assay for methylene tetrahydrofolate reductase."
+   ],
+   "contributor": [
+    "Manchester Polytechnic. Department of Biological Sciences."
+   ],
+   "author_key": [
+    "OL5086519A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "La chapelle imp\u00e9riale russe [et] la chapelle de M.D. Slaviansky d'Agr\u00e9neff",
+   "publish_place": [
+    "Paris"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "fre"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL17972159M"
+   ],
+   "last_modified_i": 1264210085,
+   "title": "La chapelle imp\u00e9riale russe [et] la chapelle de M.D. Slaviansky d'Agr\u00e9neff",
+   "subject": [
+    "Russkai\ufe20a\ufe21 pravoslavnai\ufe20a\ufe21 t\ufe20s\ufe21erkov\u02b9",
+    "History and criticism",
+    "Church music"
+   ],
+   "author_name": [
+    "Antoine Super"
+   ],
+   "person": [
+    "Dmitri\u01d0 Aleksandrovich Agrenev-Slavianski\u01d0 (1834-1908)"
+   ],
+   "seed": [
+    "/books/OL17972159M",
+    "/works/OL12294445W",
+    "/subjects/russkai\ufe20a\ufe21_pravoslavnai\ufe20a\ufe21_t\ufe20s\ufe21erkov\u02b9",
+    "/subjects/history_and_criticism",
+    "/subjects/church_music",
+    "/subjects/person:dmitri\u01d0_aleksandrovich_agrenev-slavianski\u01d0_(1834-1908)",
+    "/authors/OL5380572A"
+   ],
+   "first_publish_year": 1886,
+   "publish_year": [
+    1886
+   ],
+   "key": "/works/OL12294445W",
+   "text": [
+    "OL17972159M",
+    "Antoine Super",
+    "OL5380572A",
+    "esquisse historique et critique sur la question de la musique a l'\u00e9glise.",
+    "La chapelle imp\u00e9riale russe [et] la chapelle de M.D. Slaviansky d'Agr\u00e9neff",
+    "Russkai\ufe20a\ufe21 pravoslavnai\ufe20a\ufe21 t\ufe20s\ufe21erkov\u02b9",
+    "History and criticism",
+    "Church music",
+    "/works/OL12294445W",
+    "Impr. G. Picquoin",
+    "Dmitri\u01d0 Aleksandrovich Agrenev-Slavianski\u01d0 (1834-1908)"
+   ],
+   "publisher": [
+    "Impr. G. Picquoin"
+   ],
+   "publish_date": [
+    "1886"
+   ],
+   "author_key": [
+    "OL5380572A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Palestrina, (G. Pierluigi): \u00e9tude historique et critique sur la musique ..",
+   "edition_key": [
+    "OL20456006M"
+   ],
+   "cover_i": 6009177,
+   "has_fulltext": true,
+   "text": [
+    "OL20456006M",
+    "Antoine Super",
+    "6197287",
+    "palestrinagpier00supegoog",
+    "OL6009686A",
+    "Palestrina, (G. Pierluigi): \u00e9tude historique et critique sur la musique ..",
+    "Accessible book",
+    "/works/OL13118293W",
+    "V. Retaux",
+    "Palestrina, (G. Pierluigi): \u00e9tude historique et critique sur la musique ..."
+   ],
+   "author_name": [
+    "Antoine Super"
+   ],
+   "seed": [
+    "/books/OL20456006M",
+    "/works/OL13118293W",
+    "/subjects/accessible_book",
+    "/authors/OL6009686A"
+   ],
+   "oclc": [
+    "6197287"
+   ],
+   "ia": [
+    "palestrinagpier00supegoog"
+   ],
+   "author_key": [
+    "OL6009686A"
+   ],
+   "subject": [
+    "Accessible book"
+   ],
+   "title": "Palestrina, (G. Pierluigi): \u00e9tude historique et critique sur la musique ..",
+   "ia_collection_s": "americana",
+   "publish_date": [
+    "1892"
+   ],
+   "type": "work",
+   "ebook_count_i": 1,
+   "edition_count": 1,
+   "key": "/works/OL13118293W",
+   "public_scan_b": true,
+   "publisher": [
+    "V. Retaux"
+   ],
+   "last_modified_i": 1273128971,
+   "cover_edition_key": "OL20456006M",
+   "publish_year": [
+    1892
+   ],
+   "first_publish_year": 1892
+  },
+  {
+   "title_suggest": "Sing-along favorites",
+   "edition_key": [
+    "OL24972079M"
+   ],
+   "cover_i": 6888118,
+   "has_fulltext": true,
+   "text": [
+    "OL24972079M",
+    "Terri Super",
+    "46673707",
+    "singalongfavorit00supe",
+    "OL1130022A",
+    "Sing-along favorites",
+    "Texts",
+    "In library",
+    "Protected DAISY",
+    "Accessible book",
+    "Songs",
+    "/works/OL16075627W",
+    "illustrated by Terri Super",
+    "Western Pub. Co."
+   ],
+   "author_name": [
+    "Terri Super"
+   ],
+   "seed": [
+    "/books/OL24972079M",
+    "/works/OL16075627W",
+    "/subjects/texts",
+    "/subjects/songs",
+    "/subjects/protected_daisy",
+    "/subjects/in_library",
+    "/authors/OL1130022A"
+   ],
+   "oclc": [
+    "46673707"
+   ],
+   "ia": [
+    "singalongfavorit00supe"
+   ],
+   "author_key": [
+    "OL1130022A"
+   ],
+   "subject": [
+    "Texts",
+    "In library",
+    "Protected DAISY",
+    "Accessible book",
+    "Songs"
+   ],
+   "title": "Sing-along favorites",
+   "lending_identifier_s": "singalongfavorit00supe",
+   "ia_collection_s": "printdisabled;browserlending;china;inlibrary;internetarchivebooks",
+   "first_publish_year": 1986,
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "Racine, Wis"
+   ],
+   "printdisabled_s": "OL24972079M",
+   "ia_box_id": [
+    "IA131610"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16075627W",
+   "public_scan_b": false,
+   "publisher": [
+    "Western Pub. Co."
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1327462400,
+   "lending_edition_s": "OL24972079M",
+   "cover_edition_key": "OL24972079M",
+   "publish_year": [
+    1986
+   ],
+   "publish_date": [
+    "1986"
+   ]
+  },
+  {
+   "title_suggest": "A massacre averted",
+   "edition_key": [
+    "OL24479223M"
+   ],
+   "isbn": [
+    "9781558765320",
+    "1558765328",
+    "9781558765337",
+    "1558765336"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL24479223M",
+    "9781558765320",
+    "1558765328",
+    "9781558765337",
+    "1558765336",
+    "Mary Super",
+    "Klancher, Nancy",
+    "OL6860417A",
+    "Siege, 1920",
+    "Sources",
+    "Social aspects",
+    "Relief work",
+    "Armenians",
+    "Ethnic relations",
+    "Nurses",
+    "American Personal narratives",
+    "Medical care",
+    "Biography",
+    "History",
+    "an Armenian town, an American nurse, and the Turkish army they resisted",
+    "A massacre averted",
+    "Turkey",
+    "United States",
+    "Hac\u0131n",
+    "Hac\u0131n (Turkey)",
+    "edited and introduced by Nancy Klancher",
+    "/works/OL15521054W",
+    "Markus Wiener Publishers",
+    "2010039291",
+    "Mary Super (d. 1965)",
+    "20th century",
+    "Revolution, 1918-1923"
+   ],
+   "author_name": [
+    "Mary Super"
+   ],
+   "seed": [
+    "/books/OL24479223M",
+    "/works/OL15521054W",
+    "/subjects/social_aspects",
+    "/subjects/siege_1920",
+    "/subjects/nurses",
+    "/subjects/relief_work",
+    "/subjects/armenians",
+    "/subjects/ethnic_relations",
+    "/subjects/sources",
+    "/subjects/american_personal_narratives",
+    "/subjects/medical_care",
+    "/subjects/biography",
+    "/subjects/history",
+    "/subjects/person:mary_super_(d._1965)",
+    "/subjects/place:turkey",
+    "/subjects/place:united_states",
+    "/subjects/place:hac\u0131n",
+    "/subjects/place:hac\u0131n_(turkey)",
+    "/subjects/time:20th_century",
+    "/subjects/time:revolution_1918-1923",
+    "/authors/OL6860417A"
+   ],
+   "contributor": [
+    "Klancher, Nancy"
+   ],
+   "author_key": [
+    "OL6860417A"
+   ],
+   "subject": [
+    "Siege, 1920",
+    "Sources",
+    "Social aspects",
+    "Relief work",
+    "Armenians",
+    "Ethnic relations",
+    "Nurses",
+    "American Personal narratives",
+    "Medical care",
+    "Biography",
+    "History"
+   ],
+   "title": "A massacre averted",
+   "publish_date": [
+    "2010"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Princeton"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL15521054W",
+   "publisher": [
+    "Markus Wiener Publishers"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2010039291"
+   ],
+   "last_modified_i": 1328082099,
+   "person": [
+    "Mary Super (d. 1965)"
+   ],
+   "publish_year": [
+    2010
+   ],
+   "first_publish_year": 2010,
+   "place": [
+    "Turkey",
+    "United States",
+    "Hac\u0131n",
+    "Hac\u0131n (Turkey)"
+   ],
+   "time": [
+    "20th century",
+    "Revolution, 1918-1923"
+   ]
+  },
+  {
+   "title_suggest": "What are drugs?",
+   "edition_key": [
+    "OL24928099M"
+   ],
+   "cover_i": 6871731,
+   "isbn": [
+    "9780816723645",
+    "0816723648"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL24928099M",
+    "9780816723645",
+    "0816723648",
+    "Gretchen Super",
+    "Sims, Blanche, ill",
+    "33364317",
+    "whataredrugs00supe",
+    "OL773911A",
+    "What are drugs?",
+    "Pharmaceutical Preparations",
+    "In library",
+    "Street Drugs",
+    "Juvenile literature",
+    "Drug abuse",
+    "Drugs",
+    "Accessible book",
+    "Protected DAISY",
+    "Juvenile Literature",
+    "Substance-Related Disorders",
+    "/works/OL16024610W",
+    "Gretchen Super ; illustrated by Blanche Sims",
+    "Troll Associates"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "contributor": [
+    "Sims, Blanche, ill"
+   ],
+   "seed": [
+    "/books/OL24928099M",
+    "/works/OL16024610W",
+    "/subjects/pharmaceutical_preparations",
+    "/subjects/street_drugs",
+    "/subjects/drugs",
+    "/subjects/juvenile_literature",
+    "/subjects/drug_abuse",
+    "/subjects/juvenile_literature",
+    "/subjects/substance-related_disorders",
+    "/subjects/protected_daisy",
+    "/subjects/in_library",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "33364317"
+   ],
+   "ia": [
+    "whataredrugs00supe"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "Pharmaceutical Preparations",
+    "In library",
+    "Street Drugs",
+    "Juvenile literature",
+    "Drug abuse",
+    "Drugs",
+    "Accessible book",
+    "Protected DAISY",
+    "Juvenile Literature",
+    "Substance-Related Disorders"
+   ],
+   "title": "What are drugs?",
+   "lending_identifier_s": "whataredrugs00supe",
+   "ia_collection_s": "printdisabled;browserlending;china;inlibrary;internetarchivebooks",
+   "first_publish_year": 1990,
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "[Mahwah, N.J.]"
+   ],
+   "printdisabled_s": "OL24928099M",
+   "ia_box_id": [
+    "IA131318"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16024610W",
+   "public_scan_b": false,
+   "publisher": [
+    "Troll Associates"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1327541953,
+   "lending_edition_s": "OL24928099M",
+   "cover_edition_key": "OL24928099M",
+   "publish_year": [
+    1990
+   ],
+   "publish_date": [
+    "1990"
+   ]
+  },
+  {
+   "title_suggest": "The three little pigs",
+   "edition_key": [
+    "OL24957867M"
+   ],
+   "cover_i": 6986002,
+   "isbn": [
+    "0448102145",
+    "9780448102146"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL24957867M",
+    "0448102145",
+    "9780448102146",
+    "Terri Super",
+    "11385129",
+    "threelittlepigs00supe",
+    "OL1130022A",
+    "The three little pigs",
+    "In library",
+    "Juvenile fiction",
+    "Fiction",
+    "Pigs",
+    "Swine",
+    "Protected DAISY",
+    "Accessible book",
+    "/works/OL16058789W",
+    "illustrated by Terri Super",
+    "Grosset & Dunlap"
+   ],
+   "author_name": [
+    "Terri Super"
+   ],
+   "ia_loaded_id": [
+    "threelittlepigs00supe"
+   ],
+   "seed": [
+    "/books/OL24957867M",
+    "/works/OL16058789W",
+    "/subjects/juvenile_fiction",
+    "/subjects/pigs",
+    "/subjects/swine",
+    "/subjects/fiction",
+    "/subjects/protected_daisy",
+    "/subjects/accessible_book",
+    "/subjects/in_library",
+    "/authors/OL1130022A"
+   ],
+   "oclc": [
+    "11385129"
+   ],
+   "ia": [
+    "threelittlepigs00supe"
+   ],
+   "author_key": [
+    "OL1130022A"
+   ],
+   "subject": [
+    "In library",
+    "Juvenile fiction",
+    "Fiction",
+    "Pigs",
+    "Swine",
+    "Protected DAISY",
+    "Accessible book"
+   ],
+   "title": "The three little pigs",
+   "lending_identifier_s": "threelittlepigs00supe",
+   "ia_collection_s": "printdisabled;browserlending;china;inlibrary;internetarchivebooks",
+   "first_publish_year": 1984,
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "printdisabled_s": "OL24957867M",
+   "ia_box_id": [
+    "IA118214"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16058789W",
+   "public_scan_b": false,
+   "publisher": [
+    "Grosset & Dunlap"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1327548435,
+   "lending_edition_s": "OL24957867M",
+   "cover_edition_key": "OL24957867M",
+   "publish_year": [
+    1984
+   ],
+   "publish_date": [
+    "1984"
+   ]
+  },
+  {
+   "title_suggest": "Family traditions",
+   "edition_key": [
+    "OL1563573M"
+   ],
+   "isbn": [
+    "9780805022186",
+    "080502218X"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL1563573M",
+    "9780805022186",
+    "080502218X",
+    "Gretchen Super",
+    "Kiefte, Kees de, ill.",
+    "25025834",
+    "OL773911A",
+    "Family traditions",
+    "Gretchen Super ; illustrated by Kees de Kiefte.",
+    "Manners and customs",
+    "Family festivals",
+    "Juvenile literature",
+    "Family life",
+    "/works/OL4122891W",
+    "Twenty-first Century Books",
+    "91045128"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "seed": [
+    "/books/OL1563573M",
+    "/works/OL4122891W",
+    "/subjects/family_festivals",
+    "/subjects/family_life",
+    "/subjects/juvenile_literature",
+    "/subjects/manners_and_customs",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "25025834"
+   ],
+   "contributor": [
+    "Kiefte, Kees de, ill."
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "Manners and customs",
+    "Family festivals",
+    "Juvenile literature",
+    "Family life"
+   ],
+   "title": "Family traditions",
+   "publish_date": [
+    "1992"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Frederick, Md"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL4122891W",
+   "id_goodreads": [
+    "3716846"
+   ],
+   "publisher": [
+    "Twenty-first Century Books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "91045128"
+   ],
+   "last_modified_i": 1304001432,
+   "publish_year": [
+    1992
+   ],
+   "first_publish_year": 1992
+  },
+  {
+   "title_suggest": "Sisters and brothers",
+   "edition_key": [
+    "OL1563572M"
+   ],
+   "cover_i": 7232791,
+   "isbn": [
+    "0805022198",
+    "9780805022193"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL1563572M",
+    "0805022198",
+    "9780805022193",
+    "Gretchen Super",
+    "Kiefte, Kees de, ill.",
+    "25025828",
+    "sistersbrothers00supe",
+    "OL773911A",
+    "Sisters and brothers",
+    "Accessible book",
+    "In library",
+    "Juvenile literature",
+    "Brothers and sisters",
+    "Protected DAISY",
+    "/works/OL4122893W",
+    "Gretchen Super ; illustrated by Kees de Kiefte.",
+    "Twenty-first Century Books",
+    "91045127"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "contributor": [
+    "Kiefte, Kees de, ill."
+   ],
+   "ia_loaded_id": [
+    "sistersbrothers00supe"
+   ],
+   "seed": [
+    "/books/OL1563572M",
+    "/works/OL4122893W",
+    "/subjects/brothers_and_sisters",
+    "/subjects/juvenile_literature",
+    "/subjects/protected_daisy",
+    "/subjects/in_library",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "25025828"
+   ],
+   "ia": [
+    "sistersbrothers00supe"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "Accessible book",
+    "In library",
+    "Juvenile literature",
+    "Brothers and sisters",
+    "Protected DAISY"
+   ],
+   "title": "Sisters and brothers",
+   "lending_identifier_s": "sistersbrothers00supe",
+   "ia_collection_s": "printdisabled;browserlending;china;inlibrary;internetarchivebooks",
+   "publish_date": [
+    "1992"
+   ],
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "Frederick, Md"
+   ],
+   "printdisabled_s": "OL1563572M",
+   "ia_box_id": [
+    "IA135901"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL4122893W",
+   "id_goodreads": [
+    "3879388"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "Twenty-first Century Books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "91045127"
+   ],
+   "last_modified_i": 1351101128,
+   "lending_edition_s": "OL1563572M",
+   "cover_edition_key": "OL1563572M",
+   "publish_year": [
+    1992
+   ],
+   "first_publish_year": 1992
+  },
+  {
+   "title_suggest": "What is a family?",
+   "edition_key": [
+    "OL1866289M"
+   ],
+   "cover_i": 7015940,
+   "isbn": [
+    "0941477630",
+    "9780941477635"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL1866289M",
+    "0941477630",
+    "9780941477635",
+    "Gretchen Super",
+    "Kiefte, Kees de, ill.",
+    "22860099",
+    "whatisfamily00supe",
+    "OL773911A",
+    "What is a family?",
+    "In library",
+    "Families",
+    "Family",
+    "Accessible book",
+    "Family life",
+    "Protected DAISY",
+    "Juvenile literature",
+    "Families life",
+    "/works/OL4122897W",
+    "Gretchen Super ; illustrated by Kees de Kiefte.",
+    "Twenty-First Century Books",
+    "90024380"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "contributor": [
+    "Kiefte, Kees de, ill."
+   ],
+   "ia_loaded_id": [
+    "whatisfamily00supe"
+   ],
+   "seed": [
+    "/books/OL1866289M",
+    "/works/OL4122897W",
+    "/subjects/family",
+    "/subjects/family_life",
+    "/subjects/juvenile_literature",
+    "/subjects/families",
+    "/subjects/families_life",
+    "/subjects/protected_daisy",
+    "/subjects/in_library",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "22860099"
+   ],
+   "ia": [
+    "whatisfamily00supe"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "In library",
+    "Families",
+    "Family",
+    "Accessible book",
+    "Family life",
+    "Protected DAISY",
+    "Juvenile literature",
+    "Families life"
+   ],
+   "title": "What is a family?",
+   "lending_identifier_s": "whatisfamily00supe",
+   "ia_collection_s": "printdisabled;inlibrary;browserlending;americana;internetarchivebooks",
+   "publish_date": [
+    "1991"
+   ],
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "Frederick, Md"
+   ],
+   "printdisabled_s": "OL1866289M",
+   "ia_box_id": [
+    "IA146606"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL4122897W",
+   "id_goodreads": [
+    "3839142"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "Twenty-First Century Books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "90024380"
+   ],
+   "last_modified_i": 1327715170,
+   "lending_edition_s": "OL1866289M",
+   "id_librarything": [
+    "1828733"
+   ],
+   "cover_edition_key": "OL1866289M",
+   "publish_year": [
+    1991
+   ],
+   "first_publish_year": 1991
+  },
+  {
+   "title_suggest": "Animal babies",
+   "edition_key": [
+    "OL2746827M"
+   ],
+   "isbn": [
+    "030706056X",
+    "9780307060563"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL2746827M",
+    "030706056X",
+    "9780307060563",
+    "Terri Super",
+    "18832707",
+    "OL1130022A",
+    "Animal babies",
+    "illustrated by Terri Super.",
+    "Juvenile literature",
+    "Infancy",
+    "Animals",
+    "Pictorial works",
+    "Domestic animals",
+    "/works/OL5123702W",
+    "Western Pub. Co.",
+    "86072426"
+   ],
+   "author_name": [
+    "Terri Super"
+   ],
+   "seed": [
+    "/books/OL2746827M",
+    "/works/OL5123702W",
+    "/subjects/animals",
+    "/subjects/domestic_animals",
+    "/subjects/infancy",
+    "/subjects/juvenile_literature",
+    "/subjects/pictorial_works",
+    "/authors/OL1130022A"
+   ],
+   "oclc": [
+    "18832707"
+   ],
+   "author_key": [
+    "OL1130022A"
+   ],
+   "subject": [
+    "Juvenile literature",
+    "Infancy",
+    "Animals",
+    "Pictorial works",
+    "Domestic animals"
+   ],
+   "title": "Animal babies",
+   "publish_date": [
+    "1987"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Racine, Wis"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL5123702W",
+   "id_goodreads": [
+    "4569444"
+   ],
+   "publisher": [
+    "Western Pub. Co."
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "86072426"
+   ],
+   "last_modified_i": 1304081610,
+   "id_librarything": [
+    "2244707"
+   ],
+   "publish_year": [
+    1987
+   ],
+   "first_publish_year": 1987
+  },
+  {
+   "title_suggest": "What\u02bcs inside?",
+   "edition_key": [
+    "OL2746824M"
+   ],
+   "isbn": [
+    "030706221X",
+    "9780307062215"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL2746824M",
+    "030706221X",
+    "9780307062215",
+    "Terri Super",
+    "18779971",
+    "OL1130022A",
+    "What\u02bcs inside?",
+    "illustrated by Terri Super.",
+    "Stories in rhyme",
+    "Specimens",
+    "Toy and movable books",
+    "/works/OL5123705W",
+    "Golden Book",
+    "Western Pub. Co.",
+    "86072414"
+   ],
+   "author_name": [
+    "Terri Super"
+   ],
+   "seed": [
+    "/books/OL2746824M",
+    "/works/OL5123705W",
+    "/subjects/specimens",
+    "/subjects/stories_in_rhyme",
+    "/subjects/toy_and_movable_books",
+    "/authors/OL1130022A"
+   ],
+   "oclc": [
+    "18779971"
+   ],
+   "author_key": [
+    "OL1130022A"
+   ],
+   "subject": [
+    "Stories in rhyme",
+    "Specimens",
+    "Toy and movable books"
+   ],
+   "title": "What\u02bcs inside?",
+   "publish_date": [
+    "1987"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Racine, Wis",
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL5123705W",
+   "id_goodreads": [
+    "4763806"
+   ],
+   "publisher": [
+    "Golden Book",
+    "Western Pub. Co."
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "86072414"
+   ],
+   "last_modified_i": 1304073951,
+   "publish_year": [
+    1987
+   ],
+   "first_publish_year": 1987
+  },
+  {
+   "title_suggest": "Toys on wheels",
+   "edition_key": [
+    "OL2560397M"
+   ],
+   "isbn": [
+    "0448098792",
+    "9780448098791"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL2560397M",
+    "0448098792",
+    "9780448098791",
+    "Terri Super",
+    "14695352",
+    "OL1130022A",
+    "Toys on wheels",
+    "illustrated by Terri Super.",
+    "Toys",
+    "Specimens",
+    "Toy and movable books",
+    "Fiction",
+    "/works/OL5123704W",
+    "Grosset & Dunlap",
+    "85081826"
+   ],
+   "author_name": [
+    "Terri Super"
+   ],
+   "seed": [
+    "/books/OL2560397M",
+    "/works/OL5123704W",
+    "/subjects/fiction",
+    "/subjects/specimens",
+    "/subjects/toy_and_movable_books",
+    "/subjects/toys",
+    "/authors/OL1130022A"
+   ],
+   "oclc": [
+    "14695352"
+   ],
+   "author_key": [
+    "OL1130022A"
+   ],
+   "subject": [
+    "Toys",
+    "Specimens",
+    "Toy and movable books",
+    "Fiction"
+   ],
+   "title": "Toys on wheels",
+   "publish_date": [
+    "1986"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "[New York]"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL5123704W",
+   "id_goodreads": [
+    "3542823"
+   ],
+   "publisher": [
+    "Grosset & Dunlap"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "85081826"
+   ],
+   "last_modified_i": 1303979642,
+   "id_librarything": [
+    "8508765"
+   ],
+   "publish_year": [
+    1986
+   ],
+   "first_publish_year": 1986
+  },
+  {
+   "title_suggest": "Training a staff",
+   "edition_key": [
+    "OL6631175M"
+   ],
+   "cover_i": 6268318,
+   "has_fulltext": true,
+   "text": [
+    "OL6631175M",
+    "Paul Super",
+    "1244072",
+    "cu31924029336827",
+    "OL2337202A",
+    "a manual for Young Men's Christian Association executives",
+    "Training a staff",
+    "[by] Paul Super ...",
+    "Accessible book",
+    "YMCA of the USA",
+    "/works/OL7624807W",
+    "Association Press",
+    "21000111"
+   ],
+   "author_name": [
+    "Paul Super"
+   ],
+   "ia_loaded_id": [
+    "trainingstaffman00supe"
+   ],
+   "seed": [
+    "/books/OL6631175M",
+    "/works/OL7624807W",
+    "/subjects/accessible_book",
+    "/subjects/ymca_of_the_usa",
+    "/authors/OL2337202A"
+   ],
+   "oclc": [
+    "1244072"
+   ],
+   "ia": [
+    "cu31924029336827"
+   ],
+   "author_key": [
+    "OL2337202A"
+   ],
+   "subject": [
+    "Accessible book",
+    "YMCA of the USA"
+   ],
+   "title": "Training a staff",
+   "ia_collection_s": "cornell;americana",
+   "publish_date": [
+    "1920"
+   ],
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL7624807W",
+   "public_scan_b": true,
+   "publisher": [
+    "Association Press"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "21000111"
+   ],
+   "last_modified_i": 1328076502,
+   "cover_edition_key": "OL6631175M",
+   "publish_year": [
+    1920
+   ],
+   "first_publish_year": 1920
+  },
+  {
+   "title_suggest": "Selling without selling",
+   "edition_key": [
+    "OL23040829M"
+   ],
+   "isbn": [
+    "0814471862",
+    "9780814471869"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL23040829M",
+    "0814471862",
+    "9780814471869",
+    "Carol Super",
+    "Gold, Ronald D.",
+    "OL2846770A",
+    "4 1/2 steps to success",
+    "Selling without selling",
+    "Carol Super with Ronald D. Gold.",
+    "Selling",
+    "/works/OL8509046W",
+    "AMACOM, American Management Association",
+    "2003011347"
+   ],
+   "author_name": [
+    "Carol Super"
+   ],
+   "seed": [
+    "/books/OL23040829M",
+    "/works/OL8509046W",
+    "/subjects/selling",
+    "/authors/OL2846770A"
+   ],
+   "contributor": [
+    "Gold, Ronald D."
+   ],
+   "author_key": [
+    "OL2846770A"
+   ],
+   "subject": [
+    "Selling"
+   ],
+   "title": "Selling without selling",
+   "publish_date": [
+    "2004"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL8509046W",
+   "id_goodreads": [
+    "6416511"
+   ],
+   "publisher": [
+    "AMACOM, American Management Association"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2003011347"
+   ],
+   "last_modified_i": 1291449239,
+   "id_librarything": [
+    "5105808"
+   ],
+   "publish_year": [
+    2004
+   ],
+   "first_publish_year": 2004
+  },
+  {
+   "title_suggest": "The Pudgy Pat-a-cake Book",
+   "edition_key": [
+    "OL7540015M"
+   ],
+   "cover_i": 288974,
+   "isbn": [
+    "9780448102047",
+    "0448102048"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL7540015M",
+    "9780448102047",
+    "0448102048",
+    "Terri Super",
+    "pudgypatacakeboo00supe",
+    "OL1130022A",
+    "Accessible book",
+    "Juvenile fiction",
+    "In library",
+    "Board books",
+    "Protected DAISY",
+    "The Pudgy Pat-a-cake Book",
+    "/works/OL5123703W",
+    "Grosset & Dunlap",
+    "Pat-a-cake, pat-a-cake, baker's man, Bake me a cake, as fast as you can."
+   ],
+   "author_name": [
+    "Terri Super"
+   ],
+   "seed": [
+    "/books/OL7540015M",
+    "/works/OL5123703W",
+    "/subjects/juvenile_fiction",
+    "/subjects/board_books",
+    "/subjects/accessible_book",
+    "/subjects/protected_daisy",
+    "/subjects/in_library",
+    "/authors/OL1130022A"
+   ],
+   "ia": [
+    "pudgypatacakeboo00supe"
+   ],
+   "author_key": [
+    "OL1130022A"
+   ],
+   "subject": [
+    "Accessible book",
+    "Juvenile fiction",
+    "In library",
+    "Board books",
+    "Protected DAISY"
+   ],
+   "title": "The Pudgy Pat-a-cake Book",
+   "lending_identifier_s": "pudgypatacakeboo00supe",
+   "ia_collection_s": "printdisabled;inlibrary;browserlending;americana;internetarchivebooks",
+   "printdisabled_s": "OL7540015M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "ia_box_id": [
+    "IA116018"
+   ],
+   "edition_count": 1,
+   "first_publish_year": 1983,
+   "key": "/works/OL5123703W",
+   "id_goodreads": [
+    "2103405"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "Grosset & Dunlap"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1313162001,
+   "lending_edition_s": "OL7540015M",
+   "id_librarything": [
+    "1988857"
+   ],
+   "cover_edition_key": "OL7540015M",
+   "first_sentence": [
+    "Pat-a-cake, pat-a-cake, baker's man, Bake me a cake, as fast as you can."
+   ],
+   "publish_year": [
+    1983
+   ],
+   "publish_date": [
+    "April 22, 1983"
+   ]
+  },
+  {
+   "title_suggest": "You Can Say \"No\" to Drugs! (A Drug-Free Kids Book)",
+   "edition_key": [
+    "OL9868182M"
+   ],
+   "isbn": [
+    "0816723664",
+    "9780816723669"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL9868182M",
+    "0816723664",
+    "9780816723669",
+    "Gretchen Super",
+    "30566355",
+    "youcansaynotodru00gret",
+    "OL773911A",
+    "In library",
+    "Accessible book",
+    "Protected DAISY",
+    "You Can Say \"No\" to Drugs! (A Drug-Free Kids Book)",
+    "/works/OL4122898W",
+    "Troll Communications"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "seed": [
+    "/books/OL9868182M",
+    "/works/OL4122898W",
+    "/subjects/in_library",
+    "/authors/OL773911A"
+   ],
+   "oclc": [
+    "30566355"
+   ],
+   "ia": [
+    "youcansaynotodru00gret"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "In library",
+    "Accessible book",
+    "Protected DAISY"
+   ],
+   "title": "You Can Say \"No\" to Drugs! (A Drug-Free Kids Book)",
+   "lending_identifier_s": "youcansaynotodru00gret",
+   "ia_collection_s": "printdisabled;china;americana;internetarchivebooks;delawarecountydistrictlibrary;browserlending;inlibrary",
+   "printdisabled_s": "OL9868182M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "ia_box_id": [
+    "IA157501"
+   ],
+   "edition_count": 1,
+   "first_publish_year": 1991,
+   "key": "/works/OL4122898W",
+   "id_goodreads": [
+    "3344066"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "Troll Communications"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1500689883,
+   "lending_edition_s": "OL9868182M",
+   "id_librarything": [
+    "2661203"
+   ],
+   "publish_year": [
+    1991
+   ],
+   "publish_date": [
+    "February 1991"
+   ]
+  },
+  {
+   "title_suggest": "Focus on Opiates",
+   "edition_key": [
+    "OL9652172M"
+   ],
+   "cover_i": 8153045,
+   "isbn": [
+    "9780516073590",
+    "0516073591"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL9652172M",
+    "9780516073590",
+    "0516073591",
+    "Gretchen Super",
+    "focusonopiates0000supe",
+    "OL773911A",
+    "Accessible book",
+    "Protected DAISY",
+    "Focus on Opiates",
+    "/works/OL4122892W",
+    "Childrens Pr"
+   ],
+   "author_name": [
+    "Gretchen Super"
+   ],
+   "seed": [
+    "/books/OL9652172M",
+    "/works/OL4122892W",
+    "/authors/OL773911A"
+   ],
+   "ia": [
+    "focusonopiates0000supe"
+   ],
+   "author_key": [
+    "OL773911A"
+   ],
+   "subject": [
+    "Accessible book",
+    "Protected DAISY"
+   ],
+   "title": "Focus on Opiates",
+   "ia_collection_s": "printdisabled;china;internetarchivebooks",
+   "printdisabled_s": "OL9652172M",
+   "type": "work",
+   "ebook_count_i": 1,
+   "edition_count": 1,
+   "key": "/works/OL4122892W",
+   "public_scan_b": false,
+   "publisher": [
+    "Childrens Pr"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1521955407,
+   "first_publish_year": 1990,
+   "cover_edition_key": "OL9652172M",
+   "publish_year": [
+    1990
+   ],
+   "publish_date": [
+    "December 1990"
+   ]
+  },
+  {
+   "title_suggest": "La chapelle imp\u00e9riale russe [et] la chapelle de M.D. Slaviansky d'Agr\u00e9neff",
+   "edition_key": [
+    "OL24134023M"
+   ],
+   "cover_i": 6314805,
+   "has_fulltext": true,
+   "text": [
+    "OL24134023M",
+    "Antoine Super",
+    "lachapelleimpr00supe",
+    "OL5380572A",
+    "Russkaia pravoslavnaia tserkov",
+    "Accessible book",
+    "History and criticism",
+    "Church music",
+    "esquisse historique et critique sur la question de la musique a l'\u00e9glise.",
+    "La chapelle imp\u00e9riale russe [et] la chapelle de M.D. Slaviansky d'Agr\u00e9neff",
+    "/works/OL18069036W",
+    "Impr. G. Picquoin",
+    "Dmitri Aleksandrovich Agrenev-Slavianski (1834-1908)"
+   ],
+   "author_name": [
+    "Antoine Super"
+   ],
+   "seed": [
+    "/books/OL24134023M",
+    "/works/OL18069036W",
+    "/subjects/church_music",
+    "/subjects/history_and_criticism",
+    "/subjects/russkaia_pravoslavnaia_tserkov",
+    "/subjects/person:dmitri_aleksandrovich_agrenev-slavianski_(1834-1908)",
+    "/authors/OL5380572A"
+   ],
+   "ia": [
+    "lachapelleimpr00supe"
+   ],
+   "author_key": [
+    "OL5380572A"
+   ],
+   "subject": [
+    "Russkaia pravoslavnaia tserkov",
+    "Accessible book",
+    "History and criticism",
+    "Church music"
+   ],
+   "title": "La chapelle imp\u00e9riale russe [et] la chapelle de M.D. Slaviansky d'Agr\u00e9neff",
+   "ia_collection_s": "toronto;universityofottawa;robarts",
+   "publish_date": [
+    "1886"
+   ],
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "Paris"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL18069036W",
+   "public_scan_b": true,
+   "publisher": [
+    "Impr. G. Picquoin"
+   ],
+   "language": [
+    "fre"
+   ],
+   "last_modified_i": 1545130244,
+   "cover_edition_key": "OL24134023M",
+   "person": [
+    "Dmitri Aleksandrovich Agrenev-Slavianski (1834-1908)"
+   ],
+   "publish_year": [
+    1886
+   ],
+   "first_publish_year": 1886
+  },
+  {
+   "title_suggest": "Opportunities in Psychology Careers Today (Opportunities in ... (Paperback))",
+   "publisher": [
+    "NTC/Contemporary Publishing Company"
+   ],
+   "isbn": [
+    "0844263281",
+    "9780844263281"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL9342073M"
+   ],
+   "last_modified_i": 1419575705,
+   "title": "Opportunities in Psychology Careers Today (Opportunities in ... (Paperback))",
+   "subject": [
+    "Psychology",
+    "General"
+   ],
+   "author_name": [
+    "Donald E. Super",
+    "Charles M. Super"
+   ],
+   "seed": [
+    "/books/OL9342073M",
+    "/works/OL9342073M",
+    "/subjects/general",
+    "/subjects/psychology",
+    "/authors/OL2742447A",
+    "/authors/OL722617A"
+   ],
+   "first_publish_year": 1995,
+   "publish_year": [
+    1995
+   ],
+   "key": "/works/OL9342073M",
+   "text": [
+    "OL9342073M",
+    "0844263281",
+    "9780844263281",
+    "Donald E. Super",
+    "Charles M. Super",
+    "OL2742447A",
+    "OL722617A",
+    "Opportunities in Psychology Careers Today (Opportunities in ... (Paperback))",
+    "Psychology",
+    "General",
+    "/works/OL9342073M",
+    "NTC/Contemporary Publishing Company"
+   ],
+   "id_goodreads": [
+    "56460"
+   ],
+   "publish_date": [
+    "May 1995"
+   ],
+   "author_key": [
+    "OL2742447A",
+    "OL722617A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Life roles, values, and careers",
+   "edition_key": [
+    "OL1273993M"
+   ],
+   "cover_i": 1481474,
+   "isbn": [
+    "0787901008",
+    "9780787901004"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL1273993M",
+    "0787901008",
+    "9780787901004",
+    "Charles M. Super",
+    "Super, Donald E.",
+    "\u0160verko, Branimir.",
+    "Super, Charles M.",
+    "Super, Donald E. 1910-",
+    "OL722617A",
+    "OL918827A",
+    "Vocational guidance",
+    "Work",
+    "Cross-cultural studies",
+    "Sex role",
+    "Social values",
+    "Career development",
+    "international findings of the Work Importance Study",
+    "Life roles, values, and careers",
+    "/works/OL16277739W",
+    "edited by Donald E. Super and Branimir \u0160verko with assistance from Charles M. Super.",
+    "Jossey-Bass Publishers",
+    "95005488"
+   ],
+   "author_name": [
+    "Charles M. Super",
+    "Super, Donald E."
+   ],
+   "seed": [
+    "/books/OL1273993M",
+    "/works/OL16277739W",
+    "/subjects/cross-cultural_studies",
+    "/subjects/sex_role",
+    "/subjects/vocational_guidance",
+    "/subjects/social_values",
+    "/subjects/work",
+    "/subjects/career_development",
+    "/authors/OL722617A",
+    "/authors/OL918827A"
+   ],
+   "contributor": [
+    "\u0160verko, Branimir.",
+    "Super, Charles M.",
+    "Super, Donald E. 1910-"
+   ],
+   "author_key": [
+    "OL722617A",
+    "OL918827A"
+   ],
+   "subject": [
+    "Vocational guidance",
+    "Work",
+    "Cross-cultural studies",
+    "Sex role",
+    "Social values",
+    "Career development"
+   ],
+   "title": "Life roles, values, and careers",
+   "publish_date": [
+    "1995"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "San Francisco"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16277739W",
+   "id_goodreads": [
+    "1151535"
+   ],
+   "publisher": [
+    "Jossey-Bass Publishers"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "95005488"
+   ],
+   "last_modified_i": 1542505639,
+   "cover_edition_key": "OL1273993M",
+   "publish_year": [
+    1995
+   ],
+   "first_publish_year": 1995
+  },
+  {
+   "title_suggest": "Super",
+   "edition_key": [
+    "OL24081237M",
+    "OL24291674M"
+   ],
+   "isbn": [
+    "1588369706",
+    "9781410426611",
+    "1410426610",
+    "9781588369703"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL24081237M",
+    "OL24291674M",
+    "1588369706",
+    "9781410426611",
+    "1410426610",
+    "9781588369703",
+    "Jim Lehrer",
+    "529958103",
+    "OL2675395A",
+    "Murder",
+    "Travelers",
+    "Fiction",
+    "OverDrive",
+    "Investigation",
+    "Passenger trains",
+    "Super Chief (Express train)",
+    "Super",
+    "/works/OL15120397W",
+    "by Jim Lehrer.",
+    "Random House Publishing Group",
+    "Thorndike Press",
+    "2010008286",
+    "United States"
+   ],
+   "author_name": [
+    "Jim Lehrer"
+   ],
+   "seed": [
+    "/books/OL24081237M",
+    "/books/OL24291674M",
+    "/works/OL15120397W",
+    "/subjects/fiction",
+    "/subjects/murder",
+    "/subjects/travelers",
+    "/subjects/investigation",
+    "/subjects/passenger_trains",
+    "/subjects/super_chief_(express_train)",
+    "/subjects/overdrive",
+    "/subjects/place:united_states",
+    "/authors/OL2675395A"
+   ],
+   "oclc": [
+    "529958103"
+   ],
+   "author_key": [
+    "OL2675395A"
+   ],
+   "subject": [
+    "Murder",
+    "Travelers",
+    "Fiction",
+    "OverDrive",
+    "Investigation",
+    "Passenger trains",
+    "Super Chief (Express train)"
+   ],
+   "title": "Super",
+   "publish_date": [
+    "2010"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Waterville, Me",
+    "New York"
+   ],
+   "edition_count": 2,
+   "overdrive_s": "42D6E854-CBC1-4389-BAEB-90F1B855D59A",
+   "key": "/works/OL15120397W",
+   "id_overdrive": [
+    "42D6E854-CBC1-4389-BAEB-90F1B855D59A"
+   ],
+   "publisher": [
+    "Random House Publishing Group",
+    "Thorndike Press"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2010008286"
+   ],
+   "last_modified_i": 1355858135,
+   "publish_year": [
+    2010
+   ],
+   "first_publish_year": 2010,
+   "place": [
+    "United States"
+   ]
+  },
+  {
+   "title_suggest": "The Chronicler of Barsetshire",
+   "edition_key": [
+    "OL21392704M",
+    "OL2037773M",
+    "OL7633632M",
+    "OL7633005M"
+   ],
+   "cover_i": 4647282,
+   "isbn": [
+    "0472101021",
+    "9780472101023",
+    "047208139X",
+    "9780472081394"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL21392704M",
+    "OL2037773M",
+    "OL7633632M",
+    "OL7633005M",
+    "0472101021",
+    "9780472101023",
+    "047208139X",
+    "9780472081394",
+    "R. H. Super",
+    "OL122719A",
+    "Novelists, English",
+    "Trollope, Anthony, 1815-1882",
+    "English Novelists",
+    "Biography",
+    "A Life of Anthony Trollope",
+    "a life of Anthony Trollope",
+    "The Chronicler of Barsetshire",
+    "/works/OL1214582W",
+    "R.H. Super.",
+    "University of Michigan Press",
+    "The chronicler of Barsetshire",
+    "88014100",
+    "Anthony Trollope (1815-1882)",
+    "Barsetshire (England: Imaginary place)",
+    "19th century"
+   ],
+   "author_name": [
+    "R. H. Super"
+   ],
+   "seed": [
+    "/books/OL21392704M",
+    "/books/OL2037773M",
+    "/books/OL7633632M",
+    "/books/OL7633005M",
+    "/works/OL1214582W",
+    "/subjects/biography",
+    "/subjects/english_novelists",
+    "/subjects/novelists_english",
+    "/subjects/trollope_anthony_1815-1882",
+    "/subjects/person:anthony_trollope_(1815-1882)",
+    "/subjects/place:barsetshire_(england:_imaginary_place)",
+    "/subjects/time:19th_century",
+    "/authors/OL122719A"
+   ],
+   "author_key": [
+    "OL122719A"
+   ],
+   "subject": [
+    "Novelists, English",
+    "Trollope, Anthony, 1815-1882",
+    "English Novelists",
+    "Biography"
+   ],
+   "title": "The Chronicler of Barsetshire",
+   "publish_date": [
+    "January 15, 1991",
+    "February 15, 1989",
+    "1988"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Ann Arbor",
+    "Ann Arbor, Mich"
+   ],
+   "edition_count": 4,
+   "key": "/works/OL1214582W",
+   "id_goodreads": [
+    "267134"
+   ],
+   "publisher": [
+    "University of Michigan Press"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "88014100"
+   ],
+   "last_modified_i": 1542484265,
+   "id_librarything": [
+    "236975"
+   ],
+   "cover_edition_key": "OL21392704M",
+   "person": [
+    "Anthony Trollope (1815-1882)"
+   ],
+   "publish_year": [
+    1991,
+    1988,
+    1989
+   ],
+   "first_publish_year": 1988,
+   "place": [
+    "Barsetshire (England: Imaginary place)"
+   ],
+   "time": [
+    "19th century"
+   ]
+  },
+  {
+   "title_suggest": "Super",
+   "edition_key": [
+    "OL12058559M"
+   ],
+   "isbn": [
+    "1861542437",
+    "9781861542434"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL12058559M",
+    "1861542437",
+    "9781861542434",
+    "T. Bruggisser",
+    "Thomas Bruggisser (Editor)",
+    "Michael Fries (Editor)",
+    "49205655",
+    "OL3808093A",
+    "Super",
+    "/works/OL9823740W",
+    "Booth-Clibborn Editions"
+   ],
+   "author_name": [
+    "T. Bruggisser"
+   ],
+   "seed": [
+    "/books/OL12058559M",
+    "/works/OL9823740W",
+    "/authors/OL3808093A"
+   ],
+   "oclc": [
+    "49205655"
+   ],
+   "contributor": [
+    "Thomas Bruggisser (Editor)",
+    "Michael Fries (Editor)"
+   ],
+   "author_key": [
+    "OL3808093A"
+   ],
+   "title": "Super",
+   "publish_date": [
+    "February 2004"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL9823740W",
+   "id_goodreads": [
+    "2374866"
+   ],
+   "publisher": [
+    "Booth-Clibborn Editions"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1303878356,
+   "publish_year": [
+    2004
+   ],
+   "first_publish_year": 2004
+  },
+  {
+   "title_suggest": "Super",
+   "publisher": [
+    "Publishers' Group West"
+   ],
+   "edition_key": [
+    "OL11626789M"
+   ],
+   "isbn": [
+    "0960655808",
+    "9780960655809"
+   ],
+   "has_fulltext": false,
+   "id_librarything": [
+    "4797020"
+   ],
+   "edition_count": 1,
+   "oclc": [
+    "8198979"
+   ],
+   "last_modified_i": 1303909270,
+   "title": "Super",
+   "author_name": [
+    "Murray Olderman"
+   ],
+   "language": [
+    "eng"
+   ],
+   "seed": [
+    "/books/OL11626789M",
+    "/works/OL7094489W",
+    "/authors/OL2008619A"
+   ],
+   "first_publish_year": 1982,
+   "publish_year": [
+    1982
+   ],
+   "key": "/works/OL7094489W",
+   "text": [
+    "OL11626789M",
+    "0960655808",
+    "9780960655809",
+    "Murray Olderman",
+    "8198979",
+    "OL2008619A",
+    "The Raiders in Their Finest Hour",
+    "Super",
+    "/works/OL7094489W",
+    "Publishers' Group West"
+   ],
+   "publish_date": [
+    "October 1982"
+   ],
+   "author_key": [
+    "OL2008619A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Super!",
+   "publisher": [
+    "Continuum International Publishing Group Ltd."
+   ],
+   "edition_key": [
+    "OL10320235M"
+   ],
+   "isbn": [
+    "0304319376",
+    "9780304319374"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "oclc": [
+    "22733665"
+   ],
+   "last_modified_i": 1303909036,
+   "title": "Super!",
+   "author_name": [
+    "Linda Steel"
+   ],
+   "seed": [
+    "/books/OL10320235M",
+    "/works/OL9381685W",
+    "/authors/OL3418291A"
+   ],
+   "first_publish_year": 1991,
+   "publish_year": [
+    1991
+   ],
+   "key": "/works/OL9381685W",
+   "text": [
+    "OL10320235M",
+    "0304319376",
+    "9780304319374",
+    "Linda Steel",
+    "22733665",
+    "OL3418291A",
+    "Super!",
+    "/works/OL9381685W",
+    "Continuum International Publishing Group Ltd."
+   ],
+   "publish_date": [
+    "September 5, 1991"
+   ],
+   "author_key": [
+    "OL3418291A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Superate!",
+   "edition_key": [
+    "OL11701428M"
+   ],
+   "isbn": [
+    "9780963344205",
+    "096334420X"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "last_modified_i": 1419576743,
+   "title": "Superate!",
+   "seed": [
+    "/books/OL11701428M",
+    "/works/OL11701428M"
+   ],
+   "key": "/works/OL11701428M",
+   "text": [
+    "OL11701428M",
+    "9780963344205",
+    "096334420X",
+    "Superate!",
+    "/works/OL11701428M"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Super",
+   "publish_place": [
+    "Moskva"
+   ],
+   "isbn": [
+    "9785239008720",
+    "5239008728"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "rus"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL17294474M"
+   ],
+   "last_modified_i": 1260850031,
+   "title": "Super",
+   "publisher": [
+    "Moskovski\u012d rabochi\u012d"
+   ],
+   "author_name": [
+    "Viktor Pososhkov"
+   ],
+   "seed": [
+    "/books/OL17294474M",
+    "/works/OL11225568W",
+    "/authors/OL4697878A"
+   ],
+   "first_publish_year": 1990,
+   "publish_year": [
+    1990
+   ],
+   "key": "/works/OL11225568W",
+   "text": [
+    "OL17294474M",
+    "9785239008720",
+    "5239008728",
+    "Viktor Pososhkov",
+    "OL4697878A",
+    "Super",
+    "Viktor Pososhkov.",
+    "/works/OL11225568W",
+    "Moskovski\u012d rabochi\u012d"
+   ],
+   "publish_date": [
+    "1990"
+   ],
+   "author_key": [
+    "OL4697878A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Super",
+   "edition_key": [
+    "OL23203144M"
+   ],
+   "cover_i": 7114453,
+   "subtitle": "a novel",
+   "has_fulltext": true,
+   "text": [
+    "OL23203144M",
+    "a novel",
+    "James Lehrer",
+    "318191224",
+    "supernovel00lehr",
+    "1400067634",
+    "9781400067633",
+    "OL39308A",
+    "Super",
+    "Murder",
+    "Travelers",
+    "Accessible book",
+    "Fiction",
+    "Investigation",
+    "Protected DAISY",
+    "Passenger trains",
+    "Super Chief (Express train)",
+    "/works/OL15197541W",
+    "Jim Lehrer.",
+    "Random House",
+    "2009014448",
+    "United States"
+   ],
+   "author_name": [
+    "James Lehrer"
+   ],
+   "ia_loaded_id": [
+    "supernovel00lehr"
+   ],
+   "seed": [
+    "/books/OL23203144M",
+    "/works/OL15197541W",
+    "/subjects/fiction",
+    "/subjects/murder",
+    "/subjects/travelers",
+    "/subjects/investigation",
+    "/subjects/passenger_trains",
+    "/subjects/super_chief_(express_train)",
+    "/subjects/protected_daisy",
+    "/subjects/place:united_states",
+    "/authors/OL39308A"
+   ],
+   "oclc": [
+    "318191224"
+   ],
+   "ia": [
+    "supernovel00lehr"
+   ],
+   "isbn": [
+    "1400067634",
+    "9781400067633"
+   ],
+   "author_key": [
+    "OL39308A"
+   ],
+   "subject": [
+    "Murder",
+    "Travelers",
+    "Accessible book",
+    "Fiction",
+    "Investigation",
+    "Protected DAISY",
+    "Passenger trains",
+    "Super Chief (Express train)"
+   ],
+   "title": "Super",
+   "ia_collection_s": "printdisabled;china;internetarchivebooks",
+   "first_publish_year": 2010,
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "printdisabled_s": "OL23203144M",
+   "ia_box_id": [
+    "IA177801"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL15197541W",
+   "id_goodreads": [
+    "7292068"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "Random House"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2009014448"
+   ],
+   "last_modified_i": 1336469542,
+   "id_librarything": [
+    "9266365"
+   ],
+   "cover_edition_key": "OL23203144M",
+   "publish_year": [
+    2010
+   ],
+   "publish_date": [
+    "2010"
+   ],
+   "place": [
+    "United States"
+   ]
+  },
+  {
+   "title_suggest": "Super",
+   "edition_key": [
+    "OL24493300M"
+   ],
+   "isbn": [
+    "9781410426611",
+    "1410426610"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL24493300M",
+    "9781410426611",
+    "1410426610",
+    "James Lehrer",
+    "529958103",
+    "OL39308A",
+    "Super",
+    "Jim Lehrer",
+    "Murder",
+    "Travelers",
+    "Fiction",
+    "Investigation",
+    "Large type books",
+    "Passenger trains",
+    "Super Chief (Express train)",
+    "/works/OL15536570W",
+    "Thorndike Press",
+    "2010008286",
+    "United States"
+   ],
+   "author_name": [
+    "James Lehrer"
+   ],
+   "seed": [
+    "/books/OL24493300M",
+    "/works/OL15536570W",
+    "/subjects/passenger_trains",
+    "/subjects/murder",
+    "/subjects/investigation",
+    "/subjects/large_type_books",
+    "/subjects/travelers",
+    "/subjects/super_chief_(express_train)",
+    "/subjects/fiction",
+    "/subjects/place:united_states",
+    "/authors/OL39308A"
+   ],
+   "oclc": [
+    "529958103"
+   ],
+   "author_key": [
+    "OL39308A"
+   ],
+   "subject": [
+    "Murder",
+    "Travelers",
+    "Fiction",
+    "Investigation",
+    "Large type books",
+    "Passenger trains",
+    "Super Chief (Express train)"
+   ],
+   "title": "Super",
+   "publish_date": [
+    "2010"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Waterville, Me"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL15536570W",
+   "publisher": [
+    "Thorndike Press"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2010008286"
+   ],
+   "last_modified_i": 1303912028,
+   "publish_year": [
+    2010
+   ],
+   "first_publish_year": 2010,
+   "place": [
+    "United States"
+   ]
+  },
+  {
+   "title_suggest": "Super",
+   "edition_key": [
+    "OL25270237M"
+   ],
+   "isbn": [
+    "9780375899799",
+    "0375968946",
+    "0375899790",
+    "9780375968945",
+    "0375868941",
+    "9780375868948"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL25270237M",
+    "9780375899799",
+    "0375968946",
+    "0375899790",
+    "9780375968945",
+    "0375868941",
+    "9780375868948",
+    "Matthew Cody",
+    "OL6502752A",
+    "Supernatural",
+    "Fiction",
+    "Supervillains",
+    "Superheroes",
+    "Internet Archive Wishlist",
+    "Super",
+    "/works/OL16585320W",
+    "Matthew Cody",
+    "Alfred A. Knopf",
+    "2012008220",
+    "Pennsylvania"
+   ],
+   "author_name": [
+    "Matthew Cody"
+   ],
+   "seed": [
+    "/books/OL25270237M",
+    "/works/OL16585320W",
+    "/subjects/supervillains",
+    "/subjects/internet_archive_wishlist",
+    "/subjects/supernatural",
+    "/subjects/superheroes",
+    "/subjects/fiction",
+    "/subjects/place:pennsylvania",
+    "/authors/OL6502752A"
+   ],
+   "author_key": [
+    "OL6502752A"
+   ],
+   "subject": [
+    "Supernatural",
+    "Fiction",
+    "Supervillains",
+    "Superheroes",
+    "Internet Archive Wishlist"
+   ],
+   "title": "Super",
+   "first_publish_year": 2012,
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL16585320W",
+   "publisher": [
+    "Alfred A. Knopf"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "2012008220"
+   ],
+   "last_modified_i": 1500010703,
+   "publish_year": [
+    2012
+   ],
+   "place": [
+    "Pennsylvania"
+   ],
+   "publish_date": [
+    "2012"
+   ]
+  },
+  {
+   "title_suggest": "Super",
+   "publish_place": [
+    "Oslo"
+   ],
+   "edition_key": [
+    "OL24108974M"
+   ],
+   "isbn": [
+    "9788203250958",
+    "8252573061",
+    "9788252573060",
+    "8203250955"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "nor"
+   ],
+   "edition_count": 1,
+   "lccn": [
+    "2009662513"
+   ],
+   "last_modified_i": 1549981235,
+   "title": "Super",
+   "publisher": [
+    "Aschehoug"
+   ],
+   "author_name": [
+    "Endre Lund Eriksen"
+   ],
+   "seed": [
+    "/books/OL24108974M",
+    "/works/OL18748164W",
+    "/authors/OL1538885A"
+   ],
+   "first_publish_year": 2009,
+   "publish_year": [
+    2009
+   ],
+   "key": "/works/OL18748164W",
+   "text": [
+    "OL24108974M",
+    "9788203250958",
+    "8252573061",
+    "9788252573060",
+    "8203250955",
+    "Endre Lund Eriksen",
+    "OL1538885A",
+    "Super",
+    "/works/OL18748164W",
+    "Endre Lund Eriksen.",
+    "Aschehoug",
+    "2009662513"
+   ],
+   "publish_date": [
+    "2009"
+   ],
+   "author_key": [
+    "OL1538885A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "A history of the German language",
+   "edition_key": [
+    "OL7071768M",
+    "OL6525093M",
+    "OL7037099M"
+   ],
+   "cover_i": 6264206,
+   "has_fulltext": true,
+   "text": [
+    "OL7071768M",
+    "OL6525093M",
+    "OL7037099M",
+    "Super, Charles William",
+    "2014473",
+    "cu31924031758661",
+    "historyofgermanl00supeuoft",
+    "historyofgermanl00supeiala",
+    "OL2252704A",
+    "A history of the German language",
+    "by Charles W. Super.",
+    "Accessible book",
+    "German language",
+    "History",
+    "/works/OL7448157W",
+    "Hann",
+    "Hann & Adair",
+    "A history of the German language.",
+    "10030135"
+   ],
+   "author_name": [
+    "Super, Charles William"
+   ],
+   "seed": [
+    "/books/OL7071768M",
+    "/books/OL6525093M",
+    "/books/OL7037099M",
+    "/works/OL7448157W",
+    "/subjects/accessible_book",
+    "/subjects/german_language",
+    "/subjects/history",
+    "/authors/OL2252704A"
+   ],
+   "oclc": [
+    "2014473"
+   ],
+   "ia": [
+    "cu31924031758661",
+    "historyofgermanl00supeuoft",
+    "historyofgermanl00supeiala"
+   ],
+   "author_key": [
+    "OL2252704A"
+   ],
+   "subject": [
+    "Accessible book",
+    "German language",
+    "History"
+   ],
+   "title": "A history of the German language",
+   "ia_collection_s": "cdl;cornell;toronto;robarts;americana",
+   "publish_date": [
+    "1893"
+   ],
+   "type": "work",
+   "ebook_count_i": 3,
+   "publish_place": [
+    "Columbas",
+    "Columbus, Ohio",
+    "Columbus, O"
+   ],
+   "edition_count": 3,
+   "key": "/works/OL7448157W",
+   "public_scan_b": true,
+   "publisher": [
+    "Hann",
+    "Hann & Adair"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "10030135"
+   ],
+   "last_modified_i": 1324139024,
+   "cover_edition_key": "OL6525093M",
+   "publish_year": [
+    1893
+   ],
+   "first_publish_year": 1893
+  },
+  {
+   "title_suggest": "Occupational psychology",
+   "publish_place": [
+    "London"
+   ],
+   "isbn": [
+    "0422755400",
+    "9780422986007",
+    "0422986003",
+    "9780422755405"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 3,
+   "edition_key": [
+    "OL17404478M",
+    "OL18370177M",
+    "OL18432699M"
+   ],
+   "last_modified_i": 1260855490,
+   "title": "Occupational psychology",
+   "publisher": [
+    "Tavistock",
+    "Tavistock Publications"
+   ],
+   "author_name": [
+    "Super, Donald E."
+   ],
+   "seed": [
+    "/books/OL17404478M",
+    "/books/OL18370177M",
+    "/books/OL18432699M",
+    "/works/OL6534689W",
+    "/authors/OL1746470A"
+   ],
+   "first_publish_year": 1971,
+   "publish_year": [
+    1973,
+    1971
+   ],
+   "key": "/works/OL6534689W",
+   "text": [
+    "OL17404478M",
+    "OL18370177M",
+    "OL18432699M",
+    "0422755400",
+    "9780422986007",
+    "0422986003",
+    "9780422755405",
+    "Super, Donald E.",
+    "Bohn, Martin J.",
+    "OL1746470A",
+    "Occupational psychology",
+    "[by] Donald E. Super, Martin J. Bohn, jr.",
+    "Donald E. Super, Martin J. Bohn, Jr..",
+    "/works/OL6534689W",
+    "Tavistock",
+    "Tavistock Publications",
+    "Occupational Psychology"
+   ],
+   "contributor": [
+    "Bohn, Martin J."
+   ],
+   "publish_date": [
+    "1973",
+    "1971"
+   ],
+   "author_key": [
+    "OL1746470A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Appraising vocational fitness by means of psychological tests",
+   "publish_place": [
+    "New York"
+   ],
+   "isbn": [
+    "0060365404",
+    "9780060365400"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 3,
+   "edition_key": [
+    "OL13725922M",
+    "OL14887100M",
+    "OL19036021M"
+   ],
+   "last_modified_i": 1260857846,
+   "title": "Appraising vocational fitness by means of psychological tests",
+   "publisher": [
+    "Harper",
+    "Harper & Row; Weatherhill",
+    "Harper and Row"
+   ],
+   "author_name": [
+    "Super, Donald E."
+   ],
+   "seed": [
+    "/books/OL13725922M",
+    "/books/OL14887100M",
+    "/books/OL19036021M",
+    "/works/OL6534688W",
+    "/authors/OL1746470A"
+   ],
+   "first_publish_year": 1949,
+   "publish_year": [
+    1965,
+    1949,
+    1962
+   ],
+   "key": "/works/OL6534688W",
+   "text": [
+    "OL13725922M",
+    "OL14887100M",
+    "OL19036021M",
+    "0060365404",
+    "9780060365400",
+    "Super, Donald E.",
+    "Crites, John O.",
+    "Crites, John Orr.",
+    "OL1746470A",
+    "Appraising vocational fitness by means of psychological tests",
+    "[by] Donald E. Super, John O. Crites.",
+    "/works/OL6534688W",
+    "Harper",
+    "Harper & Row; Weatherhill",
+    "Harper and Row",
+    "Appraising vocational fitness by means of psychological tests."
+   ],
+   "contributor": [
+    "Crites, John O.",
+    "Crites, John Orr."
+   ],
+   "publish_date": [
+    "1965",
+    "1949",
+    "1962"
+   ],
+   "author_key": [
+    "OL1746470A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The background of Polish-German relations in charts and figures",
+   "publish_place": [
+    "New York"
+   ],
+   "place": [
+    "Poland",
+    "Germany"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 2,
+   "edition_key": [
+    "OL16647886M",
+    "OL22771738M"
+   ],
+   "last_modified_i": 1291401385,
+   "title": "The background of Polish-German relations in charts and figures",
+   "subject": [
+    "Statistics",
+    "Foreign relations"
+   ],
+   "author_name": [
+    "Super, Donald E."
+   ],
+   "seed": [
+    "/books/OL16647886M",
+    "/books/OL22771738M",
+    "/works/OL4550548W",
+    "/subjects/foreign_relations",
+    "/subjects/statistics",
+    "/subjects/place:germany",
+    "/subjects/place:poland",
+    "/authors/OL918827A"
+   ],
+   "first_publish_year": 1932,
+   "publish_year": [
+    1932
+   ],
+   "key": "/works/OL4550548W",
+   "text": [
+    "OL16647886M",
+    "OL22771738M",
+    "Super, Donald E.",
+    "OL918827A",
+    "The background of Polish-German relations in charts and figures",
+    "Statistics",
+    "Foreign relations",
+    "/works/OL4550548W",
+    "Ellner",
+    "The background of Polish-German relations in charts and figures.",
+    "Poland",
+    "Germany"
+   ],
+   "publisher": [
+    "Ellner"
+   ],
+   "publish_date": [
+    "1932"
+   ],
+   "author_key": [
+    "OL918827A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Opportunities in psychology careers",
+   "edition_key": [
+    "OL2417168M",
+    "OL1434234M"
+   ],
+   "cover_i": 1592593,
+   "isbn": [
+    "9780844240725",
+    "0844240729",
+    "0844240737",
+    "0844264806",
+    "9780844264806",
+    "9780844240732"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL2417168M",
+    "OL1434234M",
+    "9780844240725",
+    "0844240729",
+    "0844240737",
+    "0844264806",
+    "9780844264806",
+    "9780844240732",
+    "Charles M. Super",
+    "Super, Charles M.",
+    "Super, Donald E. 1910-",
+    "17920447",
+    "OL722617A",
+    "Opportunities in psychology careers",
+    "Charles Super, Donald Super ; foreword by Woody Katsoff.",
+    "Charles M. Super, Donald E. Super ; foreword by Joanne E. Callan.",
+    "Psychology",
+    "Vocational guidance",
+    "/works/OL3957759W",
+    "VGM Career Horizons",
+    "Psychology careers",
+    "87083711",
+    "93046080"
+   ],
+   "author_name": [
+    "Charles M. Super"
+   ],
+   "seed": [
+    "/books/OL2417168M",
+    "/books/OL1434234M",
+    "/works/OL3957759W",
+    "/subjects/psychology",
+    "/subjects/vocational_guidance",
+    "/authors/OL722617A"
+   ],
+   "oclc": [
+    "17920447"
+   ],
+   "contributor": [
+    "Super, Charles M.",
+    "Super, Donald E. 1910-"
+   ],
+   "author_key": [
+    "OL722617A"
+   ],
+   "subject": [
+    "Psychology",
+    "Vocational guidance"
+   ],
+   "title": "Opportunities in psychology careers",
+   "publish_date": [
+    "1994",
+    "1988"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Lincolnwood, Ill., U.S.A",
+    "Lincolnwood, Ill., USA"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL3957759W",
+   "id_goodreads": [
+    "3791298",
+    "4616134"
+   ],
+   "publisher": [
+    "VGM Career Horizons"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "87083711",
+    "93046080"
+   ],
+   "last_modified_i": 1320824692,
+   "id_librarything": [
+    "2333243"
+   ],
+   "cover_edition_key": "OL1434234M",
+   "publish_year": [
+    1994,
+    1988
+   ],
+   "first_publish_year": 1988
+  },
+  {
+   "title_suggest": "Opportunities in psychology careers",
+   "edition_key": [
+    "OL5552019M",
+    "OL24284931M"
+   ],
+   "isbn": [
+    "9780071392068",
+    "0071392068"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL5552019M",
+    "OL24284931M",
+    "9780071392068",
+    "0071392068",
+    "Super, Donald E.",
+    "opportunitiespsy00supe_294",
+    "OL918827A",
+    "Opportunities in psychology careers",
+    "Vocational guidance",
+    "Business",
+    "Accessible book",
+    "OverDrive",
+    "Nonfiction",
+    "Protected DAISY",
+    "Psychology",
+    "/works/OL4550543W",
+    "by Donald E. Super.",
+    "McGraw-Hill",
+    "Educational Books Division of Universal Pub. and Distributing Corp.",
+    "Opportunities in Psychology Careers",
+    "67031619"
+   ],
+   "author_name": [
+    "Super, Donald E."
+   ],
+   "seed": [
+    "/books/OL5552019M",
+    "/books/OL24284931M",
+    "/works/OL4550543W",
+    "/subjects/business",
+    "/subjects/nonfiction",
+    "/subjects/overdrive",
+    "/subjects/psychology",
+    "/subjects/vocational_guidance",
+    "/authors/OL918827A"
+   ],
+   "ia": [
+    "opportunitiespsy00supe_294"
+   ],
+   "author_key": [
+    "OL918827A"
+   ],
+   "subject": [
+    "Vocational guidance",
+    "Business",
+    "Accessible book",
+    "OverDrive",
+    "Nonfiction",
+    "Protected DAISY",
+    "Psychology"
+   ],
+   "title": "Opportunities in psychology careers",
+   "ia_collection_s": "printdisabled;librarygenesis",
+   "first_publish_year": 1968,
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York"
+   ],
+   "printdisabled_s": "OL24284931M",
+   "edition_count": 2,
+   "overdrive_s": "F61FC974-1476-4941-9C73-34094E6E82C6",
+   "key": "/works/OL4550543W",
+   "public_scan_b": false,
+   "id_overdrive": [
+    "F61FC974-1476-4941-9C73-34094E6E82C6"
+   ],
+   "publisher": [
+    "McGraw-Hill",
+    "Educational Books Division of Universal Pub. and Distributing Corp."
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "67031619"
+   ],
+   "last_modified_i": 1406626812,
+   "publish_year": [
+    2001,
+    1968
+   ],
+   "publish_date": [
+    "2001",
+    "1968"
+   ]
+  },
+  {
+   "title_suggest": "Computer-assisted counseling",
+   "publish_place": [
+    "New York"
+   ],
+   "edition_key": [
+    "OL5758045M",
+    "OL21429663M"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 2,
+   "lccn": [
+    "71137460"
+   ],
+   "last_modified_i": 1320823244,
+   "title": "Computer-assisted counseling",
+   "subject": [
+    "Educational counseling",
+    "Vocational guidance",
+    "Data processing"
+   ],
+   "author_name": [
+    "Super, Donald E."
+   ],
+   "seed": [
+    "/books/OL5758045M",
+    "/books/OL21429663M",
+    "/works/OL4550549W",
+    "/subjects/data_processing",
+    "/subjects/educational_counseling",
+    "/subjects/vocational_guidance",
+    "/authors/OL918827A"
+   ],
+   "first_publish_year": 1970,
+   "publish_year": [
+    1970
+   ],
+   "key": "/works/OL4550549W",
+   "text": [
+    "OL5758045M",
+    "OL21429663M",
+    "Super, Donald E.",
+    "OL918827A",
+    "Computer-assisted counseling",
+    "[compiled] by Donald E. Super, with the collaboration of Martin J. Bohn, Jr. [and others]",
+    "Educational counseling",
+    "Vocational guidance",
+    "Data processing",
+    "/works/OL4550549W",
+    "Teachers College Press",
+    "71137460"
+   ],
+   "publisher": [
+    "Teachers College Press"
+   ],
+   "publish_date": [
+    "1970"
+   ],
+   "author_key": [
+    "OL918827A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Wisdom and will in education",
+   "edition_key": [
+    "OL7150477M",
+    "OL6924191M"
+   ],
+   "cover_i": 5706047,
+   "has_fulltext": true,
+   "text": [
+    "OL7150477M",
+    "OL6924191M",
+    "Super, Charles William",
+    "4385385",
+    "wisdomwillineduc00superich",
+    "wisdomandwillin00supegoog",
+    "OL2252704A",
+    "Wisdom and will in education",
+    "by Charles William Super.",
+    "Accessible book",
+    "Education",
+    "/works/OL7448156W",
+    "R. L. Myers & co.",
+    "03003542"
+   ],
+   "author_name": [
+    "Super, Charles William"
+   ],
+   "seed": [
+    "/books/OL7150477M",
+    "/books/OL6924191M",
+    "/works/OL7448156W",
+    "/subjects/education",
+    "/subjects/accessible_book",
+    "/authors/OL2252704A"
+   ],
+   "oclc": [
+    "4385385"
+   ],
+   "ia": [
+    "wisdomwillineduc00superich",
+    "wisdomandwillin00supegoog"
+   ],
+   "author_key": [
+    "OL2252704A"
+   ],
+   "subject": [
+    "Accessible book",
+    "Education"
+   ],
+   "title": "Wisdom and will in education",
+   "ia_collection_s": "cdl;americana",
+   "publish_date": [
+    "1902"
+   ],
+   "type": "work",
+   "ebook_count_i": 2,
+   "publish_place": [
+    "Harrisburg, Pa"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL7448156W",
+   "public_scan_b": true,
+   "publisher": [
+    "R. L. Myers & co."
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "03003542"
+   ],
+   "last_modified_i": 1324396378,
+   "cover_edition_key": "OL7150477M",
+   "publish_year": [
+    1902
+   ],
+   "first_publish_year": 1902
+  },
+  {
+   "title_suggest": "Between heathenism and Christianity",
+   "edition_key": [
+    "OL16369974M",
+    "OL7140593M"
+   ],
+   "cover_i": 5700870,
+   "isbn": [
+    "9780837064185",
+    "083706418X"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL16369974M",
+    "OL7140593M",
+    "9780837064185",
+    "083706418X",
+    "Super, Charles William",
+    "Seneca, Lucius Anneus, ca. 4 B.C.-65 A.D.",
+    "Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.",
+    "Plutarch.",
+    "betweenheathenis00supeuoft",
+    "OL2252704A",
+    "Accessible book",
+    "Stoics",
+    "Ethics",
+    "Providence and government of God",
+    "History",
+    "being a translation of Seneca's De providentia, and Plutarch's De sera numinis vindicta, together with notes, additional extracts from these writers and two essays on Graeco-Roman life in the first century after Christ.",
+    "being a translation of Seneca's De providentia, and Plutarch's De sera numinis vindicta : together with notes, additional extracts from these writers and two essays on Graeco-Roman life in the first century after Christ",
+    "Between heathenism and Christianity",
+    "/works/OL7448155W",
+    "By Charles W. Super",
+    "by Charles W. Super.",
+    "F. H. Revell company",
+    "Fleming H. Revell",
+    "90003688",
+    "Greece"
+   ],
+   "author_name": [
+    "Super, Charles William"
+   ],
+   "ia": [
+    "betweenheathenis00supeuoft"
+   ],
+   "seed": [
+    "/books/OL16369974M",
+    "/books/OL7140593M",
+    "/works/OL7448155W",
+    "/subjects/accessible_book",
+    "/subjects/ethics",
+    "/subjects/history",
+    "/subjects/stoics",
+    "/subjects/providence_and_government_of_god",
+    "/subjects/place:greece",
+    "/authors/OL2252704A"
+   ],
+   "contributor": [
+    "Seneca, Lucius Anneus, ca. 4 B.C.-65 A.D.",
+    "Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.",
+    "Plutarch."
+   ],
+   "author_key": [
+    "OL2252704A"
+   ],
+   "subject": [
+    "Accessible book",
+    "Stoics",
+    "Ethics",
+    "Providence and government of God",
+    "History"
+   ],
+   "title": "Between heathenism and Christianity",
+   "ia_collection_s": "emmanuelcollege;toronto",
+   "publish_date": [
+    "1986",
+    "1899"
+   ],
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "New York [etc.]",
+    "Chicago"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL7448155W",
+   "public_scan_b": true,
+   "publisher": [
+    "F. H. Revell company",
+    "Fleming H. Revell"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "90003688"
+   ],
+   "last_modified_i": 1344077034,
+   "cover_edition_key": "OL7140593M",
+   "publish_year": [
+    1986,
+    1899
+   ],
+   "first_publish_year": 1899,
+   "place": [
+    "Greece"
+   ]
+  },
+  {
+   "title_suggest": "The time-spirit of Matthew Arnold",
+   "edition_key": [
+    "OL5755801M",
+    "OL17754948M"
+   ],
+   "cover_i": 5382692,
+   "isbn": [
+    "0472894005",
+    "9780472894000"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL5755801M",
+    "OL17754948M",
+    "0472894005",
+    "9780472894000",
+    "R. H. Super",
+    "OL122719A",
+    "Time in literature",
+    "Criticism and interpretation",
+    "Internet Archive Wishlist",
+    "The time-spirit of Matthew Arnold",
+    "/works/OL1214580W",
+    "by R. H. Super.",
+    "University of Michigan Press",
+    "71107980",
+    "Matthew Arnold (1822-1888)"
+   ],
+   "author_name": [
+    "R. H. Super"
+   ],
+   "seed": [
+    "/books/OL5755801M",
+    "/books/OL17754948M",
+    "/works/OL1214580W",
+    "/subjects/time_in_literature",
+    "/subjects/criticism_and_interpretation",
+    "/subjects/internet_archive_wishlist",
+    "/subjects/person:matthew_arnold_(1822-1888)",
+    "/authors/OL122719A"
+   ],
+   "author_key": [
+    "OL122719A"
+   ],
+   "subject": [
+    "Time in literature",
+    "Criticism and interpretation",
+    "Internet Archive Wishlist"
+   ],
+   "title": "The time-spirit of Matthew Arnold",
+   "publish_date": [
+    "1970"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Ann Arbor"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL1214580W",
+   "id_goodreads": [
+    "3731805"
+   ],
+   "publisher": [
+    "University of Michigan Press"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "71107980"
+   ],
+   "last_modified_i": 1542077534,
+   "cover_edition_key": "OL5755801M",
+   "person": [
+    "Matthew Arnold (1822-1888)"
+   ],
+   "publish_year": [
+    1970
+   ],
+   "first_publish_year": 1970
+  },
+  {
+   "title_suggest": "Adult career concerns inventory",
+   "edition_key": [
+    "OL1952195M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL1952195M",
+    "Super, Donald E.",
+    "Lindeman, Richard Harold, 1926-",
+    "Thompson, Albert S.",
+    "OL918827A",
+    "manual for research and exploratory use in counseling",
+    "Adult career concerns inventory",
+    "Donald E. Super, Albert S. Thompson, Richard H. Lindeman.",
+    "Vocational interests",
+    "Vocational guidance",
+    "Career development",
+    "/works/OL4550537W",
+    "Consulting Psychologists Press",
+    "90178744"
+   ],
+   "author_name": [
+    "Super, Donald E."
+   ],
+   "seed": [
+    "/books/OL1952195M",
+    "/works/OL4550537W",
+    "/subjects/career_development",
+    "/subjects/vocational_guidance",
+    "/subjects/vocational_interests",
+    "/authors/OL918827A"
+   ],
+   "contributor": [
+    "Lindeman, Richard Harold, 1926-",
+    "Thompson, Albert S."
+   ],
+   "author_key": [
+    "OL918827A"
+   ],
+   "subject": [
+    "Vocational interests",
+    "Vocational guidance",
+    "Career development"
+   ],
+   "title": "Adult career concerns inventory",
+   "publish_date": [
+    "1988"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Palo Alto, CA"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL4550537W",
+   "publisher": [
+    "Consulting Psychologists Press"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "90178744"
+   ],
+   "last_modified_i": 1320824543,
+   "publish_year": [
+    1988
+   ],
+   "first_publish_year": 1988
+  },
+  {
+   "title_suggest": "Sourcebook for vocational testing",
+   "publish_place": [
+    "New York"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL18491824M"
+   ],
+   "last_modified_i": 1291407512,
+   "title": "Sourcebook for vocational testing",
+   "subject": [
+    "Testing",
+    "Occupational aptitude tests",
+    "Ability"
+   ],
+   "author_name": [
+    "Super, Donald E."
+   ],
+   "seed": [
+    "/books/OL18491824M",
+    "/works/OL4550547W",
+    "/subjects/ability",
+    "/subjects/occupational_aptitude_tests",
+    "/subjects/testing",
+    "/authors/OL918827A"
+   ],
+   "first_publish_year": 1946,
+   "publish_year": [
+    1946
+   ],
+   "key": "/works/OL4550547W",
+   "text": [
+    "OL18491824M",
+    "Super, Donald E.",
+    "OL918827A",
+    "Sourcebook for vocational testing",
+    "Testing",
+    "Occupational aptitude tests",
+    "Ability",
+    "/works/OL4550547W",
+    "Bureau of Publications, Teachers College, Columbia University",
+    "Sourcebook for vocational testing."
+   ],
+   "publisher": [
+    "Bureau of Publications, Teachers College, Columbia University"
+   ],
+   "publish_date": [
+    "1946"
+   ],
+   "author_key": [
+    "OL918827A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Opportunities in psychology careers today",
+   "edition_key": [
+    "OL5206637M"
+   ],
+   "isbn": [
+    "9780890220313",
+    "089022031X",
+    "0980222118"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL5206637M",
+    "9780890220313",
+    "089022031X",
+    "0980222118",
+    "Super, Donald E.",
+    "Super, Charles M., joint author.",
+    "OL918827A",
+    "Opportunities in psychology careers today",
+    "Donald E. Super, Charles M. Super.",
+    "Psychology",
+    "Vocational guidance",
+    "/works/OL4550544W",
+    "Vocational Guidance Manuals",
+    "75032616"
+   ],
+   "author_name": [
+    "Super, Donald E."
+   ],
+   "seed": [
+    "/books/OL5206637M",
+    "/works/OL4550544W",
+    "/subjects/psychology",
+    "/subjects/vocational_guidance",
+    "/authors/OL918827A"
+   ],
+   "contributor": [
+    "Super, Charles M., joint author."
+   ],
+   "author_key": [
+    "OL918827A"
+   ],
+   "subject": [
+    "Psychology",
+    "Vocational guidance"
+   ],
+   "title": "Opportunities in psychology careers today",
+   "publish_date": [
+    "1976"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "Louisville, Ky"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL4550544W",
+   "publisher": [
+    "Vocational Guidance Manuals"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "75032616"
+   ],
+   "last_modified_i": 1320823457,
+   "publish_year": [
+    1976
+   ],
+   "first_publish_year": 1976
+  },
+  {
+   "title_suggest": "Peak Performance in Sports/Goal Achievement Made Easy",
+   "publisher": [
+    "Effective Learning Systems"
+   ],
+   "isbn": [
+    "1558483195",
+    "9781558483194"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL12088693M"
+   ],
+   "last_modified_i": 1344190669,
+   "title": "Peak Performance in Sports/Goal Achievement Made Easy",
+   "author_name": [
+    "Super Strength Series"
+   ],
+   "seed": [
+    "/books/OL12088693M",
+    "/works/OL9830704W",
+    "/authors/OL3814935A"
+   ],
+   "first_publish_year": 1995,
+   "publish_year": [
+    1995
+   ],
+   "key": "/works/OL9830704W",
+   "text": [
+    "OL12088693M",
+    "1558483195",
+    "9781558483194",
+    "Super Strength Series",
+    "OL3814935A",
+    "Peak Performance in Sports/Goal Achievement Made Easy",
+    "/works/OL9830704W",
+    "Effective Learning Systems"
+   ],
+   "id_goodreads": [
+    "1922480"
+   ],
+   "publish_date": [
+    "August 1995"
+   ],
+   "author_key": [
+    "OL3814935A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Super Dave",
+   "publisher": [
+    "Summit Publishing Group"
+   ],
+   "edition_key": [
+    "OL12159113M"
+   ],
+   "isbn": [
+    "1565301250",
+    "9781565301252"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "oclc": [
+    "123061774"
+   ],
+   "last_modified_i": 1304111270,
+   "title": "Super Dave",
+   "author_name": [
+    "Dave Super Osborne"
+   ],
+   "seed": [
+    "/books/OL12159113M",
+    "/works/OL9848191W",
+    "/authors/OL3832065A"
+   ],
+   "first_publish_year": 1995,
+   "publish_year": [
+    1995
+   ],
+   "key": "/works/OL9848191W",
+   "text": [
+    "OL12159113M",
+    "1565301250",
+    "9781565301252",
+    "Dave Super Osborne",
+    "123061774",
+    "OL3832065A",
+    "The Adventures of America's Most Dangerous Man",
+    "Super Dave",
+    "/works/OL9848191W",
+    "Summit Publishing Group"
+   ],
+   "publish_date": [
+    "October 1995"
+   ],
+   "author_key": [
+    "OL3832065A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The psychology of careers",
+   "publisher": [
+    "Harper and Row"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL13725913M"
+   ],
+   "last_modified_i": 1260841740,
+   "title": "The psychology of careers",
+   "author_name": [
+    "Super, Donald E."
+   ],
+   "seed": [
+    "/books/OL13725913M",
+    "/works/OL6534685W",
+    "/authors/OL1746470A"
+   ],
+   "first_publish_year": 1957,
+   "publish_year": [
+    1957
+   ],
+   "key": "/works/OL6534685W",
+   "text": [
+    "OL13725913M",
+    "Super, Donald E.",
+    "OL1746470A",
+    "an introduction to vocational development.",
+    "The psychology of careers",
+    "/works/OL6534685W",
+    "Harper and Row"
+   ],
+   "publish_date": [
+    "1957"
+   ],
+   "author_key": [
+    "OL1746470A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The vocational maturity of ninth-grade boys",
+   "edition_key": [
+    "OL19986178M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL19986178M",
+    "Super, Donald E.",
+    "Dubin, William.",
+    "Morris, Charles N.",
+    "Overstreet, Phoebe L.",
+    "Heyde, Martha B.",
+    "OL1746470A",
+    "The vocational maturity of ninth-grade boys",
+    "Donald E. Super and  Phoebe L. Overstreet ; in collaboration Charles N. Morris, William  Dubin, Martha B. Heyde.",
+    "Vocational education",
+    "Career education",
+    "/works/OL6534687W",
+    "Teachers College Press",
+    "United States"
+   ],
+   "author_name": [
+    "Super, Donald E."
+   ],
+   "seed": [
+    "/books/OL19986178M",
+    "/works/OL6534687W",
+    "/subjects/career_education",
+    "/subjects/vocational_education",
+    "/subjects/place:united_states",
+    "/authors/OL1746470A"
+   ],
+   "contributor": [
+    "Dubin, William.",
+    "Morris, Charles N.",
+    "Overstreet, Phoebe L.",
+    "Heyde, Martha B."
+   ],
+   "author_key": [
+    "OL1746470A"
+   ],
+   "subject": [
+    "Vocational education",
+    "Career education"
+   ],
+   "title": "The vocational maturity of ninth-grade boys",
+   "first_publish_year": 1960,
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL6534687W",
+   "publisher": [
+    "Teachers College Press"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1291419512,
+   "publish_year": [
+    1960
+   ],
+   "place": [
+    "United States"
+   ],
+   "publish_date": [
+    "1960"
+   ]
+  },
+  {
+   "title_suggest": "Measuring Vocational Maturity for Counseling and Evaluation",
+   "publisher": [
+    "Amer Personnel&Guidance Assn"
+   ],
+   "isbn": [
+    "9780686114468",
+    "0686114469"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL11138401M"
+   ],
+   "last_modified_i": 1260838779,
+   "title": "Measuring Vocational Maturity for Counseling and Evaluation",
+   "author_name": [
+    "Donald E. Super"
+   ],
+   "seed": [
+    "/books/OL11138401M",
+    "/works/OL8240924W",
+    "/authors/OL2742447A"
+   ],
+   "first_publish_year": 1974,
+   "publish_year": [
+    1974
+   ],
+   "key": "/works/OL8240924W",
+   "text": [
+    "OL11138401M",
+    "9780686114468",
+    "0686114469",
+    "Donald E. Super",
+    "OL2742447A",
+    "Measuring Vocational Maturity for Counseling and Evaluation",
+    "/works/OL8240924W",
+    "Amer Personnel&Guidance Assn"
+   ],
+   "publish_date": [
+    "September 1974"
+   ],
+   "author_key": [
+    "OL2742447A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Opportunities in Psychology Careers Today",
+   "publisher": [
+    "Vgm Career Horizons"
+   ],
+   "edition_key": [
+    "OL9411684M"
+   ],
+   "isbn": [
+    "0844263273",
+    "9780844263274"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "oclc": [
+    "605591520"
+   ],
+   "last_modified_i": 1303874480,
+   "title": "Opportunities in Psychology Careers Today",
+   "author_name": [
+    "Donald E. Super"
+   ],
+   "seed": [
+    "/books/OL9411684M",
+    "/works/OL8240925W",
+    "/authors/OL2742447A"
+   ],
+   "first_publish_year": 1995,
+   "publish_year": [
+    1995
+   ],
+   "key": "/works/OL8240925W",
+   "text": [
+    "OL9411684M",
+    "0844263273",
+    "9780844263274",
+    "Donald E. Super",
+    "605591520",
+    "OL2742447A",
+    "Opportunities in Psychology Careers Today",
+    "/works/OL8240925W",
+    "Vgm Career Horizons"
+   ],
+   "publish_date": [
+    "May 1995"
+   ],
+   "author_key": [
+    "OL2742447A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Preparatory French reader",
+   "edition_key": [
+    "OL7223591M"
+   ],
+   "cover_i": 5693412,
+   "has_fulltext": true,
+   "text": [
+    "OL7223591M",
+    "Ovando Byron Super",
+    "preparatoryfrenc00supeuoft",
+    "OL2540271A",
+    "Preparatory French reader",
+    "French language",
+    "Accessible book",
+    "Readers",
+    "/works/OL7871770W",
+    "Heath",
+    "Preparatory French reader."
+   ],
+   "author_name": [
+    "Ovando Byron Super"
+   ],
+   "seed": [
+    "/books/OL7223591M",
+    "/works/OL7871770W",
+    "/subjects/accessible_book",
+    "/subjects/french_language",
+    "/subjects/readers",
+    "/authors/OL2540271A"
+   ],
+   "ia": [
+    "preparatoryfrenc00supeuoft"
+   ],
+   "author_key": [
+    "OL2540271A"
+   ],
+   "subject": [
+    "French language",
+    "Accessible book",
+    "Readers"
+   ],
+   "title": "Preparatory French reader",
+   "ia_collection_s": "toronto;robarts",
+   "publish_date": [
+    "1890"
+   ],
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "Boston"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL7871770W",
+   "public_scan_b": true,
+   "publisher": [
+    "Heath"
+   ],
+   "last_modified_i": 1324289610,
+   "cover_edition_key": "OL7223591M",
+   "publish_year": [
+    1890
+   ],
+   "first_publish_year": 1890
+  },
+  {
+   "title_suggest": "Elementary German reader",
+   "edition_key": [
+    "OL7034271M"
+   ],
+   "cover_i": 5895780,
+   "has_fulltext": true,
+   "text": [
+    "OL7034271M",
+    "Ovando Byron Super",
+    "elementarygerman00supeuoft",
+    "OL2540271A",
+    "with notes and vocabulary.",
+    "Elementary German reader",
+    "Accessible book",
+    "German language",
+    "Readers",
+    "/works/OL7871769W",
+    "Ginn"
+   ],
+   "author_name": [
+    "Ovando Byron Super"
+   ],
+   "seed": [
+    "/books/OL7034271M",
+    "/works/OL7871769W",
+    "/subjects/accessible_book",
+    "/subjects/german_language",
+    "/subjects/readers",
+    "/authors/OL2540271A"
+   ],
+   "ia": [
+    "elementarygerman00supeuoft"
+   ],
+   "author_key": [
+    "OL2540271A"
+   ],
+   "subject": [
+    "Accessible book",
+    "German language",
+    "Readers"
+   ],
+   "title": "Elementary German reader",
+   "ia_collection_s": "toronto;robarts",
+   "publish_date": [
+    "1896"
+   ],
+   "type": "work",
+   "ebook_count_i": 1,
+   "publish_place": [
+    "Boston"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL7871769W",
+   "public_scan_b": true,
+   "publisher": [
+    "Ginn"
+   ],
+   "last_modified_i": 1323855117,
+   "cover_edition_key": "OL7034271M",
+   "publish_year": [
+    1896
+   ],
+   "first_publish_year": 1896
+  },
+  {
+   "title_suggest": "The management of conflict",
+   "publish_place": [
+    "[Chicago]"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL16582944M"
+   ],
+   "last_modified_i": 1291393335,
+   "title": "The management of conflict",
+   "subject": [
+    "Congresses",
+    "Personnel management",
+    "Conflict (Psychology)"
+   ],
+   "author_name": [
+    "Super Market Institute."
+   ],
+   "seed": [
+    "/books/OL16582944M",
+    "/works/OL7086951W",
+    "/subjects/conflict_(psychology)",
+    "/subjects/congresses",
+    "/subjects/personnel_management",
+    "/authors/OL2001348A"
+   ],
+   "first_publish_year": 1970,
+   "publish_year": [
+    1970
+   ],
+   "key": "/works/OL7086951W",
+   "text": [
+    "OL16582944M",
+    "Super Market Institute.",
+    "OL2001348A",
+    "viewpoints of outstanding leaders in education, business, and personal development.",
+    "The management of conflict",
+    "Edited texts of presentations at Super Market Institute's Midwinter Executive Conference, January 11-14, 1970, Bal Harbour, Florida.",
+    "Congresses",
+    "Personnel management",
+    "Conflict (Psychology)",
+    "/works/OL7086951W",
+    "Super Market Institute"
+   ],
+   "publisher": [
+    "Super Market Institute"
+   ],
+   "publish_date": [
+    "1970"
+   ],
+   "author_key": [
+    "OL2001348A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "How to check out more sales at a profit",
+   "publish_place": [
+    "Chicago, Ill"
+   ],
+   "place": [
+    "United States"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL21056388M"
+   ],
+   "last_modified_i": 1291428894,
+   "title": "How to check out more sales at a profit",
+   "subject": [
+    "Supermarkets",
+    "Congresses",
+    "Merchandising"
+   ],
+   "author_name": [
+    "Super Market Institute."
+   ],
+   "seed": [
+    "/books/OL21056388M",
+    "/works/OL7086949W",
+    "/subjects/congresses",
+    "/subjects/merchandising",
+    "/subjects/supermarkets",
+    "/subjects/place:united_states",
+    "/authors/OL2001348A"
+   ],
+   "first_publish_year": 1956,
+   "publish_year": [
+    1956
+   ],
+   "key": "/works/OL7086949W",
+   "text": [
+    "OL21056388M",
+    "Super Market Institute.",
+    "OL2001348A",
+    "19th annual convention, Super Market Institute, Cleveland Public Auditorium, Cleveland, Ohio, May 6-9, 1956. --",
+    "How to check out more sales at a profit",
+    "Supermarkets",
+    "Congresses",
+    "Merchandising",
+    "/works/OL7086949W",
+    "The Institute",
+    "United States"
+   ],
+   "publisher": [
+    "The Institute"
+   ],
+   "publish_date": [
+    "1956"
+   ],
+   "author_key": [
+    "OL2001348A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "A handbook of Super Market advertising and promotion",
+   "publish_place": [
+    "[Chicago"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL16647959M"
+   ],
+   "last_modified_i": 1291394041,
+   "title": "A handbook of Super Market advertising and promotion",
+   "subject": [
+    "Supermarkets"
+   ],
+   "author_name": [
+    "Super Market Institute."
+   ],
+   "seed": [
+    "/books/OL16647959M",
+    "/works/OL7086948W",
+    "/subjects/supermarkets",
+    "/authors/OL2001348A"
+   ],
+   "first_publish_year": 1949,
+   "publish_year": [
+    1949
+   ],
+   "key": "/works/OL7086948W",
+   "text": [
+    "OL16647959M",
+    "Super Market Institute.",
+    "OL2001348A",
+    "Proceedings of the Advertising Clinic at the 12th Annual Convention, Super Market Institute, Hotel Stevens, Chicago, May 8-12, 1949.",
+    "A handbook of Super Market advertising and promotion",
+    "Supermarkets",
+    "/works/OL7086948W",
+    "A handbook of Super Market advertising and promotion."
+   ],
+   "publish_date": [
+    "1949"
+   ],
+   "author_key": [
+    "OL2001348A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The responsibilities of leadership",
+   "publish_place": [
+    "[Chicago]"
+   ],
+   "edition_key": [
+    "OL5414022M"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "lccn": [
+    "73005532"
+   ],
+   "last_modified_i": 1291549232,
+   "title": "The responsibilities of leadership",
+   "subject": [
+    "Addresses, essays, lectures",
+    "Leadership"
+   ],
+   "author_name": [
+    "Super Market Institute."
+   ],
+   "seed": [
+    "/books/OL5414022M",
+    "/works/OL7086953W",
+    "/subjects/addresses_essays_lectures",
+    "/subjects/leadership",
+    "/authors/OL2001348A"
+   ],
+   "first_publish_year": 1969,
+   "publish_year": [
+    1969
+   ],
+   "key": "/works/OL7086953W",
+   "text": [
+    "OL5414022M",
+    "Super Market Institute.",
+    "OL2001348A",
+    "viewpoints of outstanding leaders in government, education, religion, business, personal development.",
+    "The responsibilities of leadership",
+    "Addresses, essays, lectures",
+    "Leadership",
+    "/works/OL7086953W",
+    "73005532"
+   ],
+   "publish_date": [
+    "1969"
+   ],
+   "author_key": [
+    "OL2001348A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "How to merchandise and operate for a profit",
+   "publish_place": [
+    "Chicago"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "eng"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL21056387M"
+   ],
+   "last_modified_i": 1291428843,
+   "title": "How to merchandise and operate for a profit",
+   "subject": [
+    "Supermarkets"
+   ],
+   "author_name": [
+    "Super Market Institute."
+   ],
+   "seed": [
+    "/books/OL21056387M",
+    "/works/OL7086950W",
+    "/subjects/supermarkets",
+    "/authors/OL2001348A"
+   ],
+   "first_publish_year": 1949,
+   "publish_year": [
+    1949
+   ],
+   "key": "/works/OL7086950W",
+   "text": [
+    "OL21056387M",
+    "Super Market Institute.",
+    "OL2001348A",
+    "How to merchandise and operate for a profit",
+    "Supermarkets",
+    "/works/OL7086950W",
+    "How to merchandise and operate for a profit."
+   ],
+   "publish_date": [
+    "1949"
+   ],
+   "author_key": [
+    "OL2001348A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "La psychologie des int\u00e9r\u00eats",
+   "publish_place": [
+    "Paris"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "fre"
+   ],
+   "edition_count": 1,
+   "edition_key": [
+    "OL20218887M"
+   ],
+   "last_modified_i": 1291421980,
+   "title": "La psychologie des int\u00e9r\u00eats",
+   "subject": [
+    "Int\u00e9r\u00eats professionnels"
+   ],
+   "author_name": [
+    "Donald Edwin Super"
+   ],
+   "seed": [
+    "/books/OL20218887M",
+    "/works/OL7344367W",
+    "/subjects/int\u00e9r\u00eats_professionnels",
+    "/authors/OL2172685A"
+   ],
+   "first_publish_year": 1964,
+   "publish_year": [
+    1964
+   ],
+   "key": "/works/OL7344367W",
+   "text": [
+    "OL20218887M",
+    "Donald Edwin Super",
+    "OL2172685A",
+    "La psychologie des int\u00e9r\u00eats",
+    "Int\u00e9r\u00eats professionnels",
+    "/works/OL7344367W",
+    "Presses universitaires de France",
+    "La psychologie des int\u00e9r\u00eats."
+   ],
+   "publisher": [
+    "Presses universitaires de France"
+   ],
+   "publish_date": [
+    "1964"
+   ],
+   "author_key": [
+    "OL2172685A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "The psychology of careers",
+   "publish_place": [
+    "New York"
+   ],
+   "edition_key": [
+    "OL22093218M"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "lccn": [
+    "57006744"
+   ],
+   "last_modified_i": 1291439998,
+   "title": "The psychology of careers",
+   "subject": [
+    "Vocational guidance"
+   ],
+   "author_name": [
+    "Donald Edwin Super"
+   ],
+   "seed": [
+    "/books/OL22093218M",
+    "/works/OL7344369W",
+    "/subjects/vocational_guidance",
+    "/authors/OL2172685A"
+   ],
+   "key": "/works/OL7344369W",
+   "text": [
+    "OL22093218M",
+    "Donald Edwin Super",
+    "OL2172685A",
+    "an introduction to vocational development. --",
+    "The psychology of careers",
+    "Vocational guidance",
+    "/works/OL7344369W",
+    "57006744"
+   ],
+   "author_key": [
+    "OL2172685A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Scientific careers and vocational development theory",
+   "edition_key": [
+    "OL6226013M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL6226013M",
+    "Donald Edwin Super",
+    "Bachrach, Paul B., joint author.",
+    "526271",
+    "OL2172685A",
+    "Scientific careers and vocational development theory",
+    "Science",
+    "Vocational guidance",
+    "/works/OL7344370W",
+    "Teachers College, Columbia University",
+    "Scientific careers and vocational development theory.",
+    "57012336"
+   ],
+   "author_name": [
+    "Donald Edwin Super"
+   ],
+   "seed": [
+    "/books/OL6226013M",
+    "/works/OL7344370W",
+    "/subjects/science",
+    "/subjects/vocational_guidance",
+    "/authors/OL2172685A"
+   ],
+   "oclc": [
+    "526271"
+   ],
+   "contributor": [
+    "Bachrach, Paul B., joint author."
+   ],
+   "author_key": [
+    "OL2172685A"
+   ],
+   "subject": [
+    "Science",
+    "Vocational guidance"
+   ],
+   "title": "Scientific careers and vocational development theory",
+   "publish_date": [
+    "1957"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL7344370W",
+   "publisher": [
+    "Teachers College, Columbia University"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "57012336"
+   ],
+   "last_modified_i": 1320822929,
+   "publish_year": [
+    1957
+   ],
+   "first_publish_year": 1957
+  },
+  {
+   "title_suggest": "Opportunities in psychology",
+   "edition_key": [
+    "OL6177294M"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL6177294M",
+    "Donald Edwin Super",
+    "2100752",
+    "OL2172685A",
+    "Opportunities in psychology",
+    "Psychology",
+    "Vocational guidance",
+    "/works/OL7344368W",
+    "Vocational Guidance Manuals",
+    "Opportunities in psychology.",
+    "55009079"
+   ],
+   "author_name": [
+    "Donald Edwin Super"
+   ],
+   "seed": [
+    "/books/OL6177294M",
+    "/works/OL7344368W",
+    "/subjects/psychology",
+    "/subjects/vocational_guidance",
+    "/authors/OL2172685A"
+   ],
+   "oclc": [
+    "2100752"
+   ],
+   "author_key": [
+    "OL2172685A"
+   ],
+   "subject": [
+    "Psychology",
+    "Vocational guidance"
+   ],
+   "title": "Opportunities in psychology",
+   "publish_date": [
+    "1955"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "publish_place": [
+    "New York"
+   ],
+   "edition_count": 1,
+   "key": "/works/OL7344368W",
+   "publisher": [
+    "Vocational Guidance Manuals"
+   ],
+   "language": [
+    "eng"
+   ],
+   "lccn": [
+    "55009079"
+   ],
+   "last_modified_i": 1320822888,
+   "publish_year": [
+    1955
+   ],
+   "first_publish_year": 1955
+  },
+  {
+   "title_suggest": "THE MATHEMATICS EXPERIENCE",
+   "publisher": [
+    "Houghton Mifflin"
+   ],
+   "isbn": [
+    "9780395494172",
+    "0395494176"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "edition_key": [
+    "OL10163589M"
+   ],
+   "last_modified_i": 1260837827,
+   "title": "THE MATHEMATICS EXPERIENCE",
+   "author_name": [
+    "Rathmell, Super Haubner"
+   ],
+   "seed": [
+    "/books/OL10163589M",
+    "/works/OL9339008W",
+    "/authors/OL3384343A"
+   ],
+   "first_publish_year": 1992,
+   "publish_year": [
+    1992
+   ],
+   "key": "/works/OL9339008W",
+   "text": [
+    "OL10163589M",
+    "9780395494172",
+    "0395494176",
+    "Rathmell, Super Haubner",
+    "OL3384343A",
+    "THE MATHEMATICS EXPERIENCE",
+    "/works/OL9339008W",
+    "Houghton Mifflin"
+   ],
+   "publish_date": [
+    "1992"
+   ],
+   "author_key": [
+    "OL3384343A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+  {
+   "title_suggest": "Biblia Letra Super Gigante",
+   "publisher": [
+    "Broadman/holman"
+   ],
+   "cover_i": 1879813,
+   "isbn": [
+    "1558196781",
+    "9781558196780"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "spa"
+   ],
+   "title": "Biblia Letra Super Gigante",
+   "edition_key": [
+    "OL9740599M"
+   ],
+   "last_modified_i": 1377952329,
+   "edition_count": 1,
+   "author_name": [
+    "Super Gp Bib"
+   ],
+   "cover_edition_key": "OL9740599M",
+   "seed": [
+    "/books/OL9740599M",
+    "/works/OL9263989W",
+    "/authors/OL3318883A"
+   ],
+   "first_publish_year": 1999,
+   "publish_year": [
+    1999
+   ],
+   "key": "/works/OL9263989W",
+   "text": [
+    "OL9740599M",
+    "1558196781",
+    "9781558196780",
+    "Super Gp Bib",
+    "OL3318883A",
+    "Biblia Letra Super Gigante",
+    "/works/OL9263989W",
+    "Broadman/holman"
+   ],
+   "publish_date": [
+    "May 1999"
+   ],
+   "author_key": [
+    "OL3318883A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  }
+ ]
+}

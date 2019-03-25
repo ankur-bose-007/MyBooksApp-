@@ -1,0 +1,22 @@
+.book-thumbnail{
+    width:350px;
+    margin:10px;
+}
+.book-image{
+    height:350px;
+}
+.book-overview{
+    height: 50px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.book-overview::-webkit-scrollbar{
+    width:2px;
+    background-color: gray;
+}
+.book-actions{
+    text-align: right;
+}
+.book-header{
+    height:80px;
+}
